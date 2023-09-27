@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
+  m_Name: 1_NoValeLaPenaVivir
+  m_EditorClassIdentifier: 
+  name: Pero la vida es bella
+  nextActOptions:
+  - {fileID: 11400000, guid: bcbbeab8adb15c741a6c8087697cbff7, type: 2}
+  - {fileID: 11400000, guid: 17ad49515cb4ad84ab499336e0e8de8f, type: 2}
+  response:
+    sentences:
+    - "Ser\xE1 para ti"
+    - Yo no encuentro nada bueno en esto
+    phase: 0
+    condition: {fileID: 0}
+  depressionPoints: 0
+  associatedSymptom: 17

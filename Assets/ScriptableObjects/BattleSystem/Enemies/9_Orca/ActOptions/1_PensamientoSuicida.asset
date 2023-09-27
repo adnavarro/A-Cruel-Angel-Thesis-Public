@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
+  m_Name: 1_PensamientoSuicida
+  m_EditorClassIdentifier: 
+  name: No tengo dificultades como para pensar en eso
+  nextActOptions:
+  - {fileID: 11400000, guid: 66be430e38521c2489a0be9417de3e5d, type: 2}
+  - {fileID: 11400000, guid: d379b9d5485717b4bbb35c0a936ae19e, type: 2}
+  response:
+    sentences:
+    - Yo he pensado envenenarme
+    - Pero le tengo miedo al sufrimiento
+    - "\xBFT\xFA qu\xE9 opinas?"
+    phase: 0
+  depressionPoints: 0
+  associatedSymptom: 17

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c683afd3703c94c849fd8107d6260c, type: 3}
+  m_Name: 7_Student
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: a30a2504d86dcb64dbb7e898d4d77461, type: 3}
+  font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
+  id: 7
+  enemySymptoms:
+  - {fileID: 11400000, guid: 28cac6124bfe09f4c82097b771e36844, type: 2}
+  attackAbilities:
+  - {fileID: 11400000, guid: 46aace8e2cfb97244b11e9e82a9689a3, type: 2}
+  - {fileID: 11400000, guid: 9580d95b97782d54b9e7be1d49cd4ff2, type: 2}
+  - {fileID: 11400000, guid: 6b0c45d637c63bf43917a45e74a81fc1, type: 2}
+  - {fileID: 11400000, guid: efd6eadeb3524fc40abed7bb323d0169, type: 2}
+  phaseDistribution:
+  - 1
+  - 0.5
+  - 0.25
+  - 0
+  maxPhases: 3
+  health: 125
+  maxHealth: 200
+  baseAttack: 10
+  dialoguePhase:
+  - sentences:
+    - "Oye necesito hacer 10 mil inserts para ma\xF1ana"
+    phase: 1
+  - sentences:
+    - "Esto parece que no terminar\xE1"
+    phase: 2
+  - sentences:
+    - "Me voy, necesito estudiar para el parcial que tengo ma\xF1ana"
+    - "Adem\xE1s del proyecto"
+    - "Y el ensayo de gesti\xF3n"
+    phase: 3
+  dialoguePresentation:
+  - sentences:
+    - "Ay... intent\xE9 hacer de todo"
+    - Pero no pude aprobar desarrollo de software
+    - Por tercera vez
+    phase: 0
+  dialogueCommentary:
+  - sentences:
+    - "\xBFSon lagrimas lo que salen de sus ojos?"
+    phase: 0
+  - sentences:
+    - "Te preguntas cu\xE1ntas horas llevar\xE1 en la computadora"
+    phase: 0
+  - sentences:
+    - "\xBFSer\xE1 esa carrera tan dif\xEDcil como la da a entender?"
+    phase: 0
+  maxDepressionPhase: 3
+  actOptions:
+  - {fileID: 11400000, guid: f374549a66f1d8e49add50c696894da0, type: 2}
+  - {fileID: 11400000, guid: 29802e20a6f96bb43a8941abd4104bfc, type: 2}

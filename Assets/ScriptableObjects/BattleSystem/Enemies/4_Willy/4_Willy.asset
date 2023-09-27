@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c683afd3703c94c849fd8107d6260c, type: 3}
+  m_Name: 4_Willy
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -7578108088336856471, guid: 43f96429daeed5e4a8f9f57e165f67c9, type: 3}
+  font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
+  id: 4
+  enemySymptoms:
+  - {fileID: 11400000, guid: 3fc9e5295050dfa4bbbc93d628b3a6eb, type: 2}
+  - {fileID: 11400000, guid: 0cff7f4d48d3c2440997a739307acaa2, type: 2}
+  attackAbilities:
+  - {fileID: 11400000, guid: d1b9a4debad58784fba336a3acd61f36, type: 2}
+  - {fileID: 11400000, guid: 966542540c980194da80308437926495, type: 2}
+  - {fileID: 11400000, guid: 3f7f5e3e59134c5499bcd1dfba09f38d, type: 2}
+  - {fileID: 11400000, guid: e7ba77bb8a6600745871d147c0628c84, type: 2}
+  phaseDistribution:
+  - 1
+  - 0.5
+  - 0.25
+  - 0
+  maxPhases: 3
+  health: 100
+  maxHealth: 100
+  baseAttack: 10
+  dialoguePhase:
+  - sentences:
+    - "\xBFPor qu\xE9 me haces da\xF1o?"
+    - Yo no te he hecho nada
+    phase: 1
+  - sentences:
+    - Pero si yo soy bueno
+    phase: 1
+  - sentences:
+    - Me estoy molestando
+    phase: 2
+  - sentences:
+    - 'TE VOY A MATAR '
+    phase: 3
+  dialoguePresentation:
+  - sentences:
+    - "\xA1AJA!"
+    - "Ca\xEDste en la trampa del incre\xEDble Willy"
+    - La baba loca
+    phase: 0
+  - sentences:
+    - "\xA1Haz ca\xEDdo en mi juego de poder!"
+    - Yo Willy el slime
+    - "Te proclamo el hombre m\xE1s tonto del mundo"
+    phase: 0
+  dialogueCommentary:
+  - sentences:
+    - Willy Lanza baba por todos lados
+    - "Ahora todo est\xE1 en fuego"
+    phase: 0
+  - sentences:
+    - "Willy se volvi\xF3 loco"
+    phase: 0
+  maxDepressionPhase: 3
+  actOptions:
+  - {fileID: 11400000, guid: 20a185b3ff5b9da48b0bf202155276a2, type: 2}
+  - {fileID: 11400000, guid: 90be029953097e0468062bc515a06b06, type: 2}

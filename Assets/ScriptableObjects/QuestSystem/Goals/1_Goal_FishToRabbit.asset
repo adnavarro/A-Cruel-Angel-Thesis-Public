@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aefb05fa773c3842bbcc062ef3c3628, type: 3}
+  m_Name: 1_Goal_FishToRabbit
+  m_EditorClassIdentifier: 
+  id: 1
+  description: Lleva tres pescados a Kaninchen
+  npcId: 2
+  itemId: 5
+  itemQuantity: 3
+  completed: 0
+  isGoalActive: 1
+  reward: {fileID: 11400000, guid: 86b063233de77a343bc7842bb57273b5, type: 2}
+  nextDialogueId: 4

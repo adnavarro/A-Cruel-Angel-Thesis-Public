@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8389260679161601024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8389260679161601026}
+  - component: {fileID: 8389260679161601027}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8389260679161601026
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8389260679161601024}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8389260679161601027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8389260679161601024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ec8cb86785a3449835306e91a688f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  itemsToSave:
+  - {fileID: 11400000, guid: 6e36b50b7e417db44a50730dfd71e5aa, type: 2}
+  - {fileID: 11400000, guid: 31ea5aebed0c052409476703a0f55b5e, type: 2}
+  - {fileID: 11400000, guid: bf9fab69f7cf18343ab3aff41546bfda, type: 2}
+  - {fileID: 11400000, guid: 1a092eeea41ea0046a6b4ddc5289cbbe, type: 2}
+  - {fileID: 11400000, guid: 2f5fc79966e043c597f292d52eb5923b, type: 2}
+  - {fileID: 11400000, guid: f81c30c7a8835e94f88a046f382d613f, type: 2}
+  - {fileID: 11400000, guid: 2d43b11bb22904a41b3c4356bd02971b, type: 2}
+  questsToSave:
+  - {fileID: 11400000, guid: 2469bb65061c7354b92cf1a3a47ed469, type: 2}
+  - {fileID: 11400000, guid: 7c49a27f0f56a3744bb7c5970ac4ba3d, type: 2}
+  - {fileID: 11400000, guid: 19e2868b05f35fd49a05faa95918e1f2, type: 2}
+  goalsToSave:
+  - {fileID: 11400000, guid: beae403f91fc7cc45b24ad7c2b93fe65, type: 2}
+  - {fileID: 11400000, guid: 5915ef649d1306c468ea011228e6824b, type: 2}
+  - {fileID: 11400000, guid: a56528a26d0b18842b03847f16865cd6, type: 2}
+  symptomsCount: {fileID: 11400000, guid: b248196dc440e3c439c7680b645778a1, type: 2}

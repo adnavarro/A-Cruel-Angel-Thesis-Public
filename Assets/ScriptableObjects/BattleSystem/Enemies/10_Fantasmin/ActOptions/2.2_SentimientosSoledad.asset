@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
+  m_Name: 2.2_SentimientosSoledad
+  m_EditorClassIdentifier: 
+  name: "Si lo intentas encontrar\xE1s a alguien"
+  nextActOptions:
+  - {fileID: 11400000, guid: c5fb58e0dcbae5846aae852ba5f81562, type: 2}
+  - {fileID: 11400000, guid: 6de66ea2b4307b1409d353f46f2156c0, type: 2}
+  response:
+    sentences:
+    - Ya no quiero seguir intentandolo
+    - A veces parece que funciona
+    - Pero como soy millonario
+    - Al final todos me piden dinero
+    phase: 0
+    condition: {fileID: 0}
+  depressionPoints: 0
+  associatedSymptom: 17

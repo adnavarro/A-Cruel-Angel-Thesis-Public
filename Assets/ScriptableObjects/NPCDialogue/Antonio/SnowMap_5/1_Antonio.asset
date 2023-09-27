@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8efafc24a6d10304f930ac9dad3acab2, type: 3}
+  m_Name: 1_Antonio
+  m_EditorClassIdentifier: 
+  npcId: 1
+  id: 1
+  buttonText: Horrible
+  dialogue:
+    sentences:
+    - Hmmmmmm
+    - "\xBFC\xF3mo va a ser?"
+    - "Estar\xE9 observando tu recorrido..."
+    - ...Por cierto
+    - "\xBFC\xF3mo te han tratado las personas que te has encontrado?"
+    phase: 0
+  nextDialogueOptionIds: 0300000004000000
+  condition: {fileID: 0}
+  quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
+  symptomAttached: {fileID: 11400000, guid: a1135eaacd2d4a540bd6a760453d0b92, type: 2}
+  endsOnBattle: 0
+  isSymptomQuestion: 0

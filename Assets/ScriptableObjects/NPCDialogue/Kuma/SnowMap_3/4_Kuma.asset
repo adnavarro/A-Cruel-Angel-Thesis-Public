@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8efafc24a6d10304f930ac9dad3acab2, type: 3}
+  m_Name: 4_Kuma
+  m_EditorClassIdentifier: 
+  npcId: 3
+  id: 4
+  buttonText: 
+  dialogue:
+    sentences:
+    - "\xA1Muchas gracias por las manzanas!"
+    - Te mereces un premio
+    - Trata de encontrar el bar del pueblo nevado
+    - "Ah\xED estar\xE9 yo esperando con una sorpresa"
+    phase: 0
+    condition: {fileID: 11400000, guid: 430822aa0c6113443b7e06a7fe0c1a6f, type: 2}
+  nextDialogueOptionIds: 
+  condition: {fileID: 11400000, guid: 430822aa0c6113443b7e06a7fe0c1a6f, type: 2}
+  quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
+  symptomAttached: {fileID: 0}
+  endsOnBattle: 0
+  isSymptomQuestion: 0

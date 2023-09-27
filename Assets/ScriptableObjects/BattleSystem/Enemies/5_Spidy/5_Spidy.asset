@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c683afd3703c94c849fd8107d6260c, type: 3}
+  m_Name: 5_Spidy
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: d2f9ac62b0045374ea3b576fd4012a9d, type: 3}
+  font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
+  id: 5
+  isAQuestEnemy: 0
+  isFirstTimeAppearing: 1
+  enemySymptoms:
+  - {fileID: 11400000, guid: fda676232ef671f4e888bbf193524d1a, type: 2}
+  - {fileID: 11400000, guid: a05682a0332dab246b88b8cfba14b09f, type: 2}
+  attackAbilities:
+  - {fileID: 11400000, guid: fcdc0ee1607d3c547bfe58da54824c51, type: 2}
+  - {fileID: 11400000, guid: 188affc4234884b4081a3880ea6e0ff5, type: 2}
+  - {fileID: 11400000, guid: 2057bb2c5ac7c9a48b6b97c7c651760d, type: 2}
+  - {fileID: 11400000, guid: 832be0edf508bf443bedcbe820e1e4a5, type: 2}
+  phaseDistribution:
+  - 1
+  - 0.5
+  - 0.25
+  - 0
+  maxPhases: 3
+  health: 100
+  maxHealth: 100
+  baseAttack: 15
+  dialoguePhase:
+  - sentences:
+    - "Oye soy una ara\xF1a"
+    - "Pero no ara\xF1o"
+    phase: 1
+    condition: {fileID: 0}
+  - sentences:
+    - Tranquilo
+    - No soy venenosa
+    phase: 2
+    condition: {fileID: 0}
+  - sentences:
+    - Hey
+    - "\xBFQuieres salir conmigo?"
+    phase: 3
+    condition: {fileID: 0}
+  - sentences:
+    - "Seguir\xE9 buscando presas"
+    phase: 3
+    condition: {fileID: 0}
+  dialoguePresentation:
+  - sentences:
+    - AHHHHHHHHHH
+    - "Se me perdi\xF3 mi anillo de compromiso"
+    - "Ahora mi prometida me matar\xE1"
+    phase: 0
+    condition: {fileID: 0}
+  dialogueAttack:
+  - sentences:
+    - Algo no te cuadra
+    - "Esta ara\xF1a es rara"
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - "\xBFDe verdad logra ver algo boca abajo?"
+    - Decides no preguntar
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - "Dice que perdi\xF3 el anillo de compromiso"
+    - "Pero no observas preocupaci\xF3n"
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - "\xBFEs eso una sonrisa?"
+    - "\xBFO es tu imaginaci\xF3n?"
+    phase: 0
+    condition: {fileID: 0}
+  maxDepressionPhase: 3
+  actOptions:
+  - {fileID: 11400000, guid: 1205bccd68a373748a00e94e89cc767e, type: 2}
+  - {fileID: 11400000, guid: c9cde3f10c48045438bd87df76c06a8a, type: 2}

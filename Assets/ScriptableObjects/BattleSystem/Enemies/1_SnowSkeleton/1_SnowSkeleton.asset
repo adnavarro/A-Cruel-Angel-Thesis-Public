@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c683afd3703c94c849fd8107d6260c, type: 3}
+  m_Name: 1_SnowSkeleton
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 5ee4b7ebcc157804faf212dbf57b25b7, type: 3}
+  font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
+  id: 1
+  enemySymptoms:
+  - {fileID: 11400000, guid: 59b414681e69ff64883ff314fb4c051f, type: 2}
+  attackAbilities:
+  - {fileID: 11400000, guid: 40e96603c75472c43a9ab79d15d1405d, type: 2}
+  - {fileID: 11400000, guid: 2c086280df155894493738e844f79b3e, type: 2}
+  - {fileID: 11400000, guid: 46d73816dce0b7b4089abf5e076cf251, type: 2}
+  - {fileID: 11400000, guid: 806e644e834a8144680ee3e3fb475f96, type: 2}
+  phaseDistribution:
+  - 1
+  - 0.5
+  - 0.25
+  - 0
+  maxPhases: 3
+  health: 150
+  maxHealth: 150
+  baseAttack: 25
+  dialoguePhase:
+  - sentences:
+    - "Oye no te lo tomes as\xED"
+    - Tomatelo a sorbos
+    phase: 1
+    condition: {fileID: 0}
+  - sentences:
+    - Jeje
+    - Parece que eres de pocos amigos
+    phase: 2
+    condition: {fileID: 0}
+  - sentences:
+    - "Est\xE1 bien"
+    - "Me ir\xE9 de aqu\xED"
+    phase: 3
+    condition: {fileID: 0}
+  dialoguePresentation:
+  - sentences:
+    - No me veas
+    - Soy horrible
+    phase: 0
+    condition: {fileID: 0}
+  dialogueAttack:
+  - sentences:
+    - El esqueleto se mueve sensualmente
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - El esqueleto trata de seducirte con su gusto por la moda
+    phase: 0
+    condition: {fileID: 0}
+  maxDepressionPhase: 3
+  actOptions:
+  - {fileID: 11400000, guid: ef91db23747686e4d8f651cc17ba39e1, type: 2}
+  - {fileID: 11400000, guid: 29e94b5c2d378fb4985a635515e9e0d6, type: 2}

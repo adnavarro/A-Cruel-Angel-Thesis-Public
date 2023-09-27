@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6420139357197804757
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6420139357197804756}
+  - component: {fileID: 6420139357197804759}
+  m_Layer: 0
+  m_Name: EnemyGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6420139357197804756
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6420139357197804757}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6420139357197804759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6420139357197804757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 382a545409b72d643a05f6e2526913ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  testEnemies:
+  - {fileID: 11400000, guid: 8cb5cae08bcdcd44b8d67fa71335a139, type: 2}
+  - {fileID: 11400000, guid: d81f26eb45ad59f4685057daa73b3ab8, type: 2}
+  - {fileID: 11400000, guid: f08596c5e55325a43b9ef9e5e27271f6, type: 2}
+  - {fileID: 11400000, guid: 7151584b487f74741b9b43f7e17e917f, type: 2}
+  - {fileID: 11400000, guid: a582268fbb4931c44baca31893ae6471, type: 2}
+  - {fileID: 11400000, guid: 0bb439c4cfcc34d4a97a726f53178863, type: 2}
+  - {fileID: 11400000, guid: 542d90bb6c0b46c4db1c23ea2db6d997, type: 2}
+  - {fileID: 11400000, guid: 9f20b20d9f68fcc46bb8da28da5dda99, type: 2}
+  - {fileID: 11400000, guid: e36a3324463b702479634e4707199057, type: 2}
+  probability: 30
+  startDelay: 10
+  nextOcurrence: 5

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c683afd3703c94c849fd8107d6260c, type: 3}
+  m_Name: 8_WeirdFace
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: bb08308d4204d7945822d671eb508035, type: 3}
+  font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
+  id: 8
+  enemySymptoms:
+  - {fileID: 11400000, guid: 95a6deb8bc1889c478ef093fafb9d6f3, type: 2}
+  attackAbilities:
+  - {fileID: 11400000, guid: 5e2f6e49fedc6ee43904589c433e20e4, type: 2}
+  - {fileID: 11400000, guid: 937bd858ee745db4c880c2f1c00f8769, type: 2}
+  - {fileID: 11400000, guid: c2e8f62117006314e8613216fb51e82a, type: 2}
+  - {fileID: 11400000, guid: 995f16970935fc1439b57ddadb8cacac, type: 2}
+  phaseDistribution:
+  - 1
+  - 0.5
+  - 0.25
+  - 0
+  maxPhases: 3
+  health: 150
+  maxHealth: 150
+  baseAttack: 15
+  dialoguePhase:
+  - sentences:
+    - "As\xED mismo... No vale la pena vivir"
+    phase: 1
+    condition: {fileID: 0}
+  - sentences:
+    - Gracias
+    - "Me est\xE1s ayudando muy bien"
+    phase: 2
+    condition: {fileID: 0}
+  - sentences:
+    - "Adi\xF3s mundo cruel"
+    phase: 3
+    condition: {fileID: 0}
+  dialoguePresentation:
+  - sentences:
+    - No vale la pena vivir
+    phase: 0
+    condition: {fileID: 0}
+  dialogueCommentary:
+  - sentences:
+    - Algo huele mal
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - Un momento
+    - TIENE UN CUERPO DIMINUTO
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - Te preguntas
+    - "Algo no est\xE1 bien con esa cabeza"
+    phase: 0
+    condition: {fileID: 0}
+  maxDepressionPhase: 3
+  actOptions:
+  - {fileID: 11400000, guid: dd4c7da3069267a45bc79f3dd9d59e69, type: 2}
+  - {fileID: 11400000, guid: 96fb88398edc8ea47b71a4c7c0b737df, type: 2}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8efafc24a6d10304f930ac9dad3acab2, type: 3}
+  m_Name: 0_Antonio
+  m_EditorClassIdentifier: 
+  npcId: 1
+  id: 0
+  buttonText: 
+  dialogue:
+    sentences:
+    - Oye amigo
+    - Parece que te has perdido
+    - Llegaste en la madrugada de ayer
+    - "\xBFNo recuerdas c\xF3mo has llegado aqu\xED?"
+    - Hmmmmm....
+    - "Si sigues adelante conseguir\xE1s el pueblo nevado"
+    - "Seguramente ah\xED encontrar\xE1s a alguien que pueda ayudarte"
+    - "Pero d\xE9jame darte una recomendaci\xF3n"
+    - Por estos lugares rondan muchas personas particulares
+    - "Tranquilo, estar\xE1s bien"
+    - Pero recuerda
+    - Solo elimina aquellos que consideres malignos
+    phase: 0
+    condition: {fileID: 0}
+  nextDialogueOptionIds: 01000000
+  quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
+  symptomAttached: {fileID: 0}
+  endsOnBattle: 0
+  isSymptomQuestion: 0

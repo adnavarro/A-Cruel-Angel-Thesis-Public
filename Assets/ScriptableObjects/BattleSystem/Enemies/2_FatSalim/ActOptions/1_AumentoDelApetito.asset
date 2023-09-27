@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
+  m_Name: 1_AumentoDelApetito
+  m_EditorClassIdentifier: 
+  name: Planifiquemos tu dieta
+  nextActOptions:
+  - {fileID: 11400000, guid: b2ecc2be6f1c81c4495aeaa2347baa9b, type: 2}
+  - {fileID: 11400000, guid: f34160928d01777448f7e79fcd22d74e, type: 2}
+  response:
+    sentences:
+    - Eres igual que ella
+    - Solo pensando en la figura
+    phase: 0
+  depressionPoints: 0
+  associatedSymptom: 17

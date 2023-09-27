@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
+  m_Name: 2.1_NoValeLaPenaVivir
+  m_EditorClassIdentifier: 
+  name: Lo mejor es respetar lo que has decidido
+  nextActOptions:
+  - {fileID: 11400000, guid: 7e46849af8fa3b44fa71715f93c8712b, type: 2}
+  - {fileID: 11400000, guid: e03c5ecd216b1494283f1f03e274df27, type: 2}
+  response:
+    sentences:
+    - "\xBFDe verdad est\xE1s de acuerdo conmigo?"
+    phase: 0
+    condition: {fileID: 0}
+  depressionPoints: 2
+  associatedSymptom: 7

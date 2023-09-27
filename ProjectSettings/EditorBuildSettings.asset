@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 98ea587b1820e7c4d931c044ba073aef
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6fe1703b8bd112545b4f40aa79ae6330
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 0f5f7106d494d5c40988bc7a95f63f19
+  - enabled: 1
+    path: Assets/Scenes/SnowMap_1.unity
+    guid: 6573db1fc7593bf46848d64cba9f4483
+  - enabled: 1
+    path: Assets/Scenes/SnowMap_2.unity
+    guid: 4f7f1832ed3193140810494990447a56
+  - enabled: 1
+    path: Assets/Scenes/SnowMap_3.unity
+    guid: 0a77059d78a30484199bd564becb5423
+  - enabled: 1
+    path: Assets/Scenes/SnowMap_4.unity
+    guid: 8f46e927c0f9f06418c153e37aaaf4ba
+  - enabled: 1
+    path: Assets/Scenes/SnowMap_5.unity
+    guid: e389e05fd7862274da78ed8472d86365
+  - enabled: 1
+    path: Assets/Scenes/SnowMap_6.unity
+    guid: 2f9f4171ef71609409f4112c753d9ed9
+  - enabled: 1
+    path: Assets/Scenes/Bar.unity
+    guid: 4f94cb42618d8bf4484abc440e8a7d21
+  - enabled: 1
+    path: Assets/Scenes/CombatScene.unity
+    guid: dce50630edeb8504987d849eba96765a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 75f7a64c82b297740a2a334bb24f41c0, type: 2}

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c683afd3703c94c849fd8107d6260c, type: 3}
+  m_Name: 3_SadFairy
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: dc02760875d940644a89fac2c110e941, type: 3}
+  font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
+  id: 3
+  isAQuestEnemy: 0
+  isFirstTimeAppearing: 1
+  enemySymptoms:
+  - {fileID: 11400000, guid: 19a5c17da5e774648abd287ed51dd3d2, type: 2}
+  attackAbilities:
+  - {fileID: 11400000, guid: ae1ae635a1d9bc7438bcbb5e7631d360, type: 2}
+  - {fileID: 11400000, guid: ef6572f04519dd949b65b72aaaa22e66, type: 2}
+  - {fileID: 11400000, guid: 49571c5ae3bfb1943b2fde5f49f74cbb, type: 2}
+  - {fileID: 11400000, guid: ed2abd4408efb1643b81b1366c4a7d81, type: 2}
+  phaseDistribution:
+  - 1
+  - 0.7
+  - 0.3
+  - 0
+  maxPhases: 3
+  health: 140
+  maxHealth: 150
+  baseAttack: 10
+  dialoguePhase:
+  - sentences:
+    - No te quiero lastimar
+    phase: 1
+    condition: {fileID: 0}
+  - sentences:
+    - Tengo miedo
+    - "No me provoca hacerte da\xF1o"
+    phase: 1
+    condition: {fileID: 0}
+  - sentences:
+    - "Oye d\xE9jalo"
+    - No me lastimes
+    phase: 2
+    condition: {fileID: 0}
+  - sentences:
+    - Nadie me quiere
+    - Todos me odian
+    phase: 3
+    condition: {fileID: 0}
+  dialoguePresentation:
+  - sentences:
+    - No puedo parar de llorar
+    phase: 0
+    condition: {fileID: 0}
+  dialogueAttack:
+  - sentences:
+    - "\xBFQu\xE9 le estar\xE1 pasando a esa hada?"
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - "\xBFSer\xE1 esta hada familia del Hada de los besos?"
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - Ver tantas lagrimas en los ojos del hada
+    - Hace que te provoque llorar
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - "\xBFQu\xE9 es ese hueco que tiene el hada?"
+    - "\xBFEs su boca o parte de su vestido?"
+    - No logras responder tu duda
+    phase: 0
+    condition: {fileID: 0}
+  maxDepressionPhase: 3
+  actOptions:
+  - {fileID: 11400000, guid: 7dfafd28083d7b14baddd564478dc8d6, type: 2}
+  - {fileID: 11400000, guid: 40f3f55291aa482479125fd81a7be0ea, type: 2}

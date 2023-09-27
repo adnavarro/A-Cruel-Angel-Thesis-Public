@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c683afd3703c94c849fd8107d6260c, type: 3}
+  m_Name: 2_FatSalim
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 00dbbc5ae6f316b4a967280421ca44a1, type: 3}
+  font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
+  id: 2
+  isAQuestEnemy: 0
+  isFirstTimeAppearing: 1
+  enemySymptoms:
+  - {fileID: 11400000, guid: 6ec55067d334b0447899f394830f1a01, type: 2}
+  attackAbilities:
+  - {fileID: 11400000, guid: af0538064adb2924e9fd0ee6a499ad5b, type: 2}
+  - {fileID: 11400000, guid: 18ef292d80283d64fa2958b101939590, type: 2}
+  - {fileID: 11400000, guid: efb59fc0c35b34341889abeec532599f, type: 2}
+  - {fileID: 11400000, guid: d93bb9784b010ec42a0239171ee3d00b, type: 2}
+  phaseDistribution:
+  - 1
+  - 0.7
+  - 0.3
+  - 0
+  maxPhases: 3
+  health: 150
+  maxHealth: 150
+  baseAttack: 20
+  dialoguePhase:
+  - sentences:
+    - "Como que tendr\xE9 que moverme m\xE1s para vencerte"
+    - Eso me fastidia un poco
+    phase: 1
+    condition: {fileID: 0}
+  - sentences:
+    - "Y estuvo, comer\xE9 espinaca para vencerte"
+    - ...
+    - "Como que no logr\xE9 nada"
+    phase: 2
+    condition: {fileID: 0}
+  - sentences:
+    - Ay no
+    - Estoy muy cansado
+    - "Continuemos m\xE1s tarde"
+    phase: 3
+    condition: {fileID: 0}
+  dialoguePresentation:
+  - sentences:
+    - "Mi esposa me dej\xF3 por un camello"
+    - "Y ahora para pagar mis penas solo comer\xE9"
+    phase: 0
+    condition: {fileID: 0}
+  dialogueAttack:
+  - sentences:
+    - Un olor desagradable decide aparecer
+    - "Parece que Salim no se ha ba\xF1ado en varios d\xEDas"
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - "\xBFQu\xE9 es eso que ha decidido comer?"
+    - Decides no averiguarlo
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - "Ver tanta comida r\xE1pida hace que pierdas el apetito"
+    phase: 0
+    condition: {fileID: 0}
+  - sentences:
+    - Decides fijarte detalladamente
+    - Parece que su panza tiene una personalidad propia
+    - "\xBFO es solo tu imaginaci\xF3n?"
+    phase: 0
+    condition: {fileID: 0}
+  maxDepressionPhase: 3
+  actOptions:
+  - {fileID: 11400000, guid: f9835ee7a2a243c41a5015cc7f36d456, type: 2}
+  - {fileID: 11400000, guid: f1aa89556dbe2a644b00059311075047, type: 2}

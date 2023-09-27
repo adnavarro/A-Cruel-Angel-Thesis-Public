@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8efafc24a6d10304f930ac9dad3acab2, type: 3}
+  m_Name: 0_ElCamello
+  m_EditorClassIdentifier: 
+  npcId: 6
+  id: 0
+  buttonText: 
+  dialogue:
+    sentences:
+    - "Hola peque\xF1o amigo"
+    - Jeje...
+    - "\xBFTe interesa alguno de mis productos?"
+    phase: 0
+    condition: {fileID: 0}
+  nextDialogueOptionIds: 0100000002000000
+  quest: {fileID: 0}
+  symptomAttached: {fileID: 0}
+  endsOnBattle: 0
+  isSymptomQuestion: 0

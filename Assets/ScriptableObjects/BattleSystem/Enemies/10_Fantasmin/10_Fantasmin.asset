@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c683afd3703c94c849fd8107d6260c, type: 3}
+  m_Name: 10_Fantasmin
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: be1625c9ee2e0f54c9cc2bcdfe13f50f, type: 3}
+  font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
+  id: 10
+  enemySymptoms:
+  - {fileID: 11400000, guid: e4c5102ebc7889d4fadc239a9c1eaab6, type: 2}
+  attackAbilities:
+  - {fileID: 11400000, guid: e62c3f03c4109ae49bf8b6c70c475092, type: 2}
+  - {fileID: 11400000, guid: 418cddf7e60803d48b1c389e46103812, type: 2}
+  - {fileID: 11400000, guid: 3d9eecef7548b44409e7e12699db7a89, type: 2}
+  - {fileID: 11400000, guid: 3c51fb9fa68bfb547baa0f71edc9e6a4, type: 2}
+  phaseDistribution:
+  - 1
+  - 0.5
+  - 0.25
+  - 0
+  maxPhases: 3
+  health: 200
+  maxHealth: 200
+  baseAttack: 15
+  dialoguePhase:
+  - sentences:
+    - "Adem\xE1s de estar solo"
+    - Me lastimas
+    - Que fea es la vida
+    phase: 1
+  - sentences:
+    - No hay nada en este mundo que sirva
+    - Hice una millonada para conseguir amigos
+    - "Pero no funcion\xF3"
+    phase: 2
+  - sentences:
+    - Bien
+    - "Abrazar\xE9 la soledad"
+    phase: 3
+  dialoguePresentation:
+  - sentences:
+    - "Siento que nadie me acompa\xF1a"
+    - Busco... busco y no encuentro a nadie
+    phase: 0
+  dialogueCommentary:
+  - sentences:
+    - "Dice est\xE1r solo"
+    - "Pero hay varios fant\xE1smas persiguiendolo"
+    phase: 0
+  - sentences:
+    - "\xBFSer\xE1 que los fantasmas no se pueden ver entre si?"
+    phase: 0
+  - sentences:
+    - Te quedas viendo el sombrero del fantasma
+    - Ahora quieres uno igual
+    phase: 0
+  - sentences:
+    - El outfit del fantasma es casi perfecto
+    - "Si tan solo tuviera un mon\xF3culo"
+    phase: 0
+  maxDepressionPhase: 3
+  actOptions:
+  - {fileID: 11400000, guid: 90b09fd52429eb14195125be5be07208, type: 2}
+  - {fileID: 11400000, guid: 5036288848a9c8044b739e77040d4c6f, type: 2}

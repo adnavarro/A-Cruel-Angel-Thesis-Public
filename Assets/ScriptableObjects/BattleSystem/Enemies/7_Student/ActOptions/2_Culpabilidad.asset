@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
+  m_Name: 2_Culpabilidad
+  m_EditorClassIdentifier: 
+  name: "De tantos intentos encontrar\xE1s la soluci\xF3n"
+  nextActOptions:
+  - {fileID: 11400000, guid: fcb7ab7fa9520ec4f83d0c4936005973, type: 2}
+  - {fileID: 11400000, guid: 08d5b72c21203fa4e83ce1631b628260, type: 2}
+  response:
+    sentences:
+    - Yo me siento optimista
+    - Si el proyecto no es en grupo
+    phase: 0
+    condition: {fileID: 0}
+  depressionPoints: 0
+  associatedSymptom: 17

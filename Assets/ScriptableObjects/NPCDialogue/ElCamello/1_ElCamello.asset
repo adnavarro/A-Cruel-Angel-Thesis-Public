@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8efafc24a6d10304f930ac9dad3acab2, type: 3}
+  m_Name: 1_ElCamello
+  m_EditorClassIdentifier: 
+  npcId: 6
+  id: 1
+  buttonText: "S\xED"
+  dialogue:
+    sentences:
+    - Jajajajajajajajajajajaja
+    - "As\xED se habla"
+    - Ten
+    - "Esto te llevar\xE1 a ver las nubes"
+    phase: 0
+    condition: {fileID: 0}
+  nextDialogueOptionIds: 03000000
+  quest: {fileID: 0}
+  item: {fileID: 11400000, guid: 2d43b11bb22904a41b3c4356bd02971b, type: 2}
+  symptomAttached: {fileID: 0}
+  endsOnBattle: 0
+  isSymptomQuestion: 0

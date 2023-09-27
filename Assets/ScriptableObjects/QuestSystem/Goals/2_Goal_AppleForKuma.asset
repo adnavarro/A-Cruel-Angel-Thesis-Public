@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aefb05fa773c3842bbcc062ef3c3628, type: 3}
+  m_Name: 2_Goal_AppleForKuma
+  m_EditorClassIdentifier: 
+  id: 2
+  description: Lleva 3 Manzanas a Kuma
+  npcId: 3
+  itemId: 1
+  itemQuantity: 3
+  completed: 0
+  isGoalActive: 1
+  reward: {fileID: 11400000, guid: b15b55b28e83bcd4eade666bb29bfe5c, type: 2}
+  nextDialogueId: 4

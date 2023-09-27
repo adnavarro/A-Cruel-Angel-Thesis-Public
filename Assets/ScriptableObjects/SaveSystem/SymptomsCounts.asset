@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24ddbcd73f3cf2f418bf7d34ff7b971b, type: 3}
+  m_Name: SymptomsCounts
+  m_EditorClassIdentifier: 
+  name: gfd
+  lastName: hgfdhgd
+  username: Alfonmaster
+  password: 123
+  sessionId: 3
+  sentimientosInfelicidadMiserabilidadCount: 1
+  apetitoCount: 0
+  culpabilidadCount: 0
+  indecisionCount: 0
+  llantoIncontrolableCount: 0
+  frecuenciaComunicacionVerbalDisminuidaCount: 0
+  futuroFatalistaCount: 3
+  noValeLaPenaVivirCount: 0
+  actividadSocialDisminuidaCount: 0
+  pensamientoMuerteCount: 0
+  pensamientoSuicidaCount: 5
+  personasEnGeneralMalasCount: 0
+  autoImagenComprometidaCount: 0
+  sentimientosSoledadCount: 0
+  noSeSienteQueridoCount: 0
+  generalmenteNoSoyBuenoCount: 0
+  todoSaleMalCount: 0
+  maxSentimientosInfelicidadMiserabilidadCount: 6
+  maxApetitoCount: 7
+  maxCulpabilidadCount: 0
+  maxIndecisionCount: 2
+  maxLlantoIncontrolableCount: 0
+  maxFrecuenciaComunicacionVerbalDisminuidaCount: 4
+  maxFuturoFatalistaCount: 9
+  maxNoValeLaPenaVivirCount: 0
+  maxActividadSocialDisminuidaCount: 29
+  maxPensamientoMuerteCount: 0
+  maxPensamientoSuicidaCount: 6
+  maxPersonasEnGeneralMalasCount: 4
+  maxAutoImagenComprometidaCount: 0
+  maxSentimientosSoledadCount: 0
+  maxNoSeSienteQueridoCount: 0
+  maxGeneralmenteNoSoyBuenoCount: 4
+  maxTodoSaleMalCount: 4
+  npcTalkedBeforeCount: 0

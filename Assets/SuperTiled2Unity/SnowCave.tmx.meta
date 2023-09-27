@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: b069f3745229a5a47a8c7d6ee50530e6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors: []
+  warnings:
+  - Pixels Per Unit mismatch between map (32) and tileset 'collision.tsx' (100)
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 24
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
