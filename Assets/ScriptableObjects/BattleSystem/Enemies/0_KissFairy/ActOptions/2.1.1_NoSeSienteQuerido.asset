@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.1_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: "Vivir\xE1s con ese constante dolor"
+  name: You will live with that constant pain
   nextActOptions: []
   response:
     sentences:
-    - "Lo s\xE9"
-    - "As\xED he vivido"
-    - "Y as\xED vivir\xE9"
+    - I know
+    - This is how I have lived
+    - And so I will live
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 14

@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.2_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: "Aunque sientas que me voy el cari\xF1o es el mismo"
+  name: Even if you feel like I'm leaving, the love would be the same
   nextActOptions: []
   response:
     sentences:
-    - Nunca he sientido algo como eso
-    - "\xBFEs factible?"
+    - I've never felt that in my life
+    - Is it possible?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

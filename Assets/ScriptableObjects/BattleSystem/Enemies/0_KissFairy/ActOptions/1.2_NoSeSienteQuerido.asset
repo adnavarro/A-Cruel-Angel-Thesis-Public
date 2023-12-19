@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: "Yo podr\xEDa quererte si me dejas"
+  name: I could love you if you let me
   nextActOptions:
   - {fileID: 11400000, guid: acb42507ae7f4184bb3e0717b1c5e8b4, type: 2}
   - {fileID: 11400000, guid: 736ae922d10e9e44a8e9de177bed7e27, type: 2}
   response:
     sentences:
-    - "Pero podr\xEDas dejar de quererme"
-    - ...Eventualmente
+    - But you could stop loving me
+    - ...eventually
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

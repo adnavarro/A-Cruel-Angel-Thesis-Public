@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Disgust
   m_EditorClassIdentifier: 
-  name: Asquearse
+  name: Disgust
   baseAttack: 20
   responses:
   - sentences:
-    - "\xBFQu\xE9 pasa?"
-    - "\xBFMe huele m\xE1l la boca?"
+    - What's the matter?
+    - Does my mouth smells bad?
     phase: 0

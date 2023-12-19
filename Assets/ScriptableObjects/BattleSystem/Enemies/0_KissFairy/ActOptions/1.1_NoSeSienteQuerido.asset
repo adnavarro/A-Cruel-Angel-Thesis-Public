@@ -12,17 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: "Y nadie nunca lo har\xE1"
+  name: No one will ever do it
   nextActOptions:
   - {fileID: 11400000, guid: b26fd1aa959997047b01aa1520b1d536, type: 2}
   - {fileID: 11400000, guid: 39f2a9dd48168cb4ca8272e44d0a6254, type: 2}
   response:
     sentences:
-    - Lo tengo claro
-    - "Creo que vivir\xE9 encerrada"
-    - Y sin contacto humano
-    - "Es m\xE1s sencillo as\xED"
+    - I know
+    - I think I'll live locked up
+    - Without human contact
+    - It's easier that way
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 14

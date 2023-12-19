@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: Seguramente no te conocen bien
+  name: They probably don't know you well
   nextActOptions:
   - {fileID: 11400000, guid: 01e13d9f26123e64bbf90e6345678e72, type: 2}
   - {fileID: 11400000, guid: cbdd3d24827298146b59b61a5c1805f3, type: 2}
   response:
     sentences:
-    - Como nadie me quiere
-    - "No me aceptar\xEDan ni una salida al cine"
+    - Nobody likes me
+    - They wouldn't even accept a date to the cinema
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

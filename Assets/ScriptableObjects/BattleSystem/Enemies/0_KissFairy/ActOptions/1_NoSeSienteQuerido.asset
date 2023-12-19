@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: Es que ni ayudando eres suficiente
+  name: Your not enough even helping
   nextActOptions:
   - {fileID: 11400000, guid: f3148e61a00f1c84b869b4e75e1e8f5d, type: 2}
   - {fileID: 11400000, guid: 84e353fcc1174ec47b89280db2f4dca1, type: 2}
   response:
     sentences:
-    - "Por esa misma raz\xF3n"
-    - Nadie me quiere
-    - Soy una inservible
+    - For that same reason
+    - Nobody loves me
+    - I'm useless
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 14

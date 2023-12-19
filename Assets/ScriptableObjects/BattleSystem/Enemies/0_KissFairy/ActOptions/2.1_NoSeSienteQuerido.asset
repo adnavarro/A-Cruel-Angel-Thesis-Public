@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: "S\xED hay gente que no te quiere"
+  name: Yes, there are people who doesn't love you
   nextActOptions:
   - {fileID: 11400000, guid: e935ecea45971e94396e221bd44e8c81, type: 2}
   - {fileID: 11400000, guid: 16432d3e9bc72aa4bac44a48ae80a6fe, type: 2}
   response:
     sentences:
-    - Te lo estoy diciendo
-    - "Raro ser\xEDa que alguien me apreciara"
+    - I'm telling you
+    - It would be weird if someone appreciated me
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 14

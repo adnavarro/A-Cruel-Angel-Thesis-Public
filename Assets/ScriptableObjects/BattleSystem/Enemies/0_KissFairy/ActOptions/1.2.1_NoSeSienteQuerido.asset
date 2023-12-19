@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.1_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: Eso es inevitable
+  name: That is unavoidable
   nextActOptions: []
   response:
     sentences:
-    - Ciertamente...
-    - "Nadie nunca me querr\xE1"
+    - Certainly...
+    - Nobody is ever going to like me
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 14

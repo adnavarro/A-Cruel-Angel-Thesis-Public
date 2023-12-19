@@ -33,45 +33,45 @@ MonoBehaviour:
   baseAttack: 16
   dialoguePhase:
   - sentences:
-    - Oye cuidado
-    - "Esta cirug\xEDa me cost\xF3 mucho dinero"
+    - Hey, careful
+    - This surgery was expensive
     phase: 1
   - sentences:
-    - No hay nada que estos labios sensuales no puedan conseguir
+    - There's nothing these sexy lips can't achieve
     phase: 1
   - sentences:
-    - Que raro
-    - Con estos labios siempre consigo lo que quiero
+    - That's weird
+    - With these lips I always get what I want
     phase: 2
   - sentences:
-    - "Veo que no est\xE1s interesado"
-    - "Est\xE1 bien"
-    - "Tendr\xE9 que llamar a mi ex..."
+    - I see that your not interested
+    - It's ok
+    - I will call my ex...
     phase: 3
   dialoguePresentation:
   - sentences:
-    - Nadie me quiere
-    - Trato de ayudar a todo el mundo
-    - Pero nunca recibo afecto
+    - Nobody likes me
+    - I try to help everyone
+    - But I never receive affection
     phase: 0
   dialogueCommentary:
   - sentences:
-    - Los labios del hada tienen mucha baba
-    - Eso te perturba
+    - The fairy's lips have a lot of slime
+    - That disturbs you
     phase: 0
   - sentences:
-    - Por un momento te pones a pensar
-    - Lavar toda esa boca debe de tomar mucho trabajo
+    - For a moment you start to think
+    - Washing that whole mouth must take a lot of work
     phase: 0
   - sentences:
-    - "\xBFSer\xE1n esos labios de verdad?"
-    - "\xBFO son operados?"
-    - La duda te carcome la mente
+    - Could those lips be real?
+    - Or is it surgery?
+    - The doubt eats away at your mind
     phase: 0
   - sentences:
-    - "\xBFEs comida lo que tiene entre los dientes?"
-    - "La respuesta podr\xEDa perturbarte m\xE1s"
-    - Decides no seguir pensando en ello
+    - Is that food between those teeth?
+    - The answer might disturb you
+    - You decide not to think about it
     phase: 0
   maxDepressionPhase: 3
   actOptions:

@@ -16,13 +16,13 @@ MonoBehaviour:
   baseAttack: 20
   responses:
   - sentences:
-    - "\xBFC\xF3mo que mis labios son horribles?"
-    - Seguramente nadie te ha dado un verdadero placer...
-    - ... de besos
+    - What do you mean that my lips are horrible?
+    - Surely no one have ever gave you the pleasure...
+    - ... of kisses
     phase: 0
   - sentences:
-    - "\xBFAh s\xED?"
-    - Pues tus labios son...
-    - "... peque\xF1os"
-    - "S\xED, eso"
+    - Ahhh yeah?
+    - Well then, your lips are...
+    - ... small
+    - Yes, that
     phase: 0

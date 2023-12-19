@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: "No hay que llegar a esos extremos, yo te ayudar\xE9"
+  name: You don't have to go to those extremes, I will help you
   nextActOptions: []
   response:
     sentences:
-    - "\xBFDe veras?"
-    - "\xBFSer\xE1s la primera persona en quererme?"
+    - Really?
+    - Are you going to be the first person to love me?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

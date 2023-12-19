@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.2_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: "Yo har\xEDa lo mismo, no le importamos a nadie"
+  name: I would do the same, no one cares about us
   nextActOptions: []
   response:
     sentences:
-    - "\xBFNadie te quiere verdad?"
-    - "Al parecer esta es la \xFAnica soluci\xF3n a nuestros problemas"
+    - Nobody loves you right?
+    - It seems that it is the oly solution to our problems
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 14

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: GlueLips
   m_EditorClassIdentifier: 
-  name: Pegar Labios
+  name: Glue lips
   baseAttack: 13
   responses:
   - sentences:

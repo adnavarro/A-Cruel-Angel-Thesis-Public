@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.2_NoSeSienteQuerido
   m_EditorClassIdentifier: 
-  name: Puede que sea cierto
+  name: It might be true
   nextActOptions: []
   response:
     sentences:
-    - Lo es
-    - "Y siempre lo ser\xE1"
+    - It is
+    - And it always will
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 14
