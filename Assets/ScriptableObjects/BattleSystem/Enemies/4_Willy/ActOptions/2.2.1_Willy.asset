@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.1_Willy
   m_EditorClassIdentifier: 
-  name: "Quiero ser tu amigo, pero no s\xE9 si hacer todo eso"
+  name: I want to be your friend, but I don't know if I should do all that.
   nextActOptions: []
   response:
     sentences:
-    - "\xA1\xBFVes?!"
-    - En realidad nadie quiere ser mi amigo
+    - SEE?!
+    - Nobody ever wants to be my friend
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 3

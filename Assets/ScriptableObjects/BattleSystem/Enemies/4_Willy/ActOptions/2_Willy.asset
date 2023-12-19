@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2_Willy
   m_EditorClassIdentifier: 
-  name: La verdad no te ves tan fuerte
+  name: The truth is you don't look that strong
   nextActOptions:
   - {fileID: 11400000, guid: aedc03ea0fce2744c9f4a7f5ee3546ee, type: 2}
   - {fileID: 11400000, guid: 8265da7a619c56044b416d3f572ee8b0, type: 2}
   response:
     sentences:
-    - "Oye, no me trates as\xED"
-    - Yo solo quiero hacer amigos
+    - Hey, don't treat me like that
+    - I just want to make friends
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

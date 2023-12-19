@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.2_Willy
   m_EditorClassIdentifier: 
-  name: Podemos ser amigos sin todas esas cosas
+  name: We can be friends without all that
   nextActOptions: []
   response:
     sentences:
-    - "Est\xE1 bien"
-    - "Te lo permitir\xE9 porque me caes bien"
+    - Ok...
+    - I will allow it because you're nice
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

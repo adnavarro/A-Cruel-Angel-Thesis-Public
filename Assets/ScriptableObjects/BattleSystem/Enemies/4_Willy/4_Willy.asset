@@ -34,28 +34,28 @@ MonoBehaviour:
   baseAttack: 10
   dialoguePhase:
   - sentences:
-    - "\xBFPor qu\xE9 me haces da\xF1o?"
-    - Yo no te he hecho nada
+    - Why are you hurting me?
+    - I have not done anything to you
     phase: 1
   - sentences:
-    - Pero si yo soy bueno
+    - But I'm a good slime!
     phase: 1
   - sentences:
-    - Me estoy molestando
+    - I'm getting angry
     phase: 2
   - sentences:
-    - 'TE VOY A MATAR '
+    - I'M GOING TO MURDER YOU!
     phase: 3
   dialoguePresentation:
   - sentences:
     - "\xA1AJA!"
-    - "Ca\xEDste en la trampa del incre\xEDble Willy"
-    - La baba loca
+    - You fell into the Incredibe Willy's trap
+    - The crazy slime!
     phase: 0
   - sentences:
-    - "\xA1Haz ca\xEDdo en mi juego de poder!"
-    - Yo Willy el slime
-    - "Te proclamo el hombre m\xE1s tonto del mundo"
+    - You fell into my power trap
+    - Me, Willy the Slime
+    - Proclaim thee the dumbest man in the world
     phase: 0
   dialogueCommentary:
   - sentences:

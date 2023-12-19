@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Punch
   m_EditorClassIdentifier: 
-  name: Golpear
+  name: Punch
   baseAttack: 10
   responses:
   - sentences:
-    - JA JA
-    - Tus golpes no me hacen casi nada
-    - Porque soy una baba
+    - HA HA
+    - Your blows do almost nothing to me
+    - Because I'm a slime!
     phase: 0
-    condition: {fileID: 0}

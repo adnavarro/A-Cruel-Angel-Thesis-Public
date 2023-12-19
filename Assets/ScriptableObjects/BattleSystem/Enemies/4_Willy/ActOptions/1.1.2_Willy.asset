@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.2_Willy
   m_EditorClassIdentifier: 
-  name: "Por lo menos intentar\xE9 sobrevivir"
+  name: At least I'll try to survive
   nextActOptions: []
   response:
     sentences:
-    - "Est\xE1 bien"
-    - "Te dejar\xE9 ir por ahora"
+    - It's ok
+    - I'll let you go for now
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

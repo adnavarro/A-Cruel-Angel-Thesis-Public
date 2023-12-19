@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Squeeze
   m_EditorClassIdentifier: 
-  name: Exprimir
+  name: Squeeze
   baseAttack: 18
   responses:
   - sentences:
-    - "\xBFPero qu\xE9 haces?"
+    - What are you doing?!
     phase: 0
-    condition: {fileID: 0}

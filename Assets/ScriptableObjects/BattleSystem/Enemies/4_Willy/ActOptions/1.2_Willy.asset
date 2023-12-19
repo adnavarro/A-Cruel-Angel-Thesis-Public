@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_Willy
   m_EditorClassIdentifier: 
-  name: "Dar\xE9 mi mejor esfuerzo"
+  name: I'll do my best
   nextActOptions:
   - {fileID: 11400000, guid: 9287c23c372f6574c9d9f7c4651c31c9, type: 2}
   - {fileID: 11400000, guid: de0f3817a0f10c44ab212a94e1f0d269, type: 2}
   response:
     sentences:
-    - "Oye, tampoco as\xED"
-    - Deja que te gane
-    - ... Por fa
+    - Hey, not like that tho
+    - Let me beat you
+    - ...please
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

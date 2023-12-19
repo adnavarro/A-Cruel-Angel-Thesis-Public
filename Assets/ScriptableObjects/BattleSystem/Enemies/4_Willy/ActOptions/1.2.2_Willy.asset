@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.2_Willy
   m_EditorClassIdentifier: 
-  name: "No s\xE9, quiero ganar pero sin que te sientas mal"
+  name: I don't know, I want to win but without making you feel bad
   nextActOptions: []
   response:
     sentences:
-    - "\xA1Ja!"
-    - Mis poderes te han confundido
-    - Eres un perdedor
+    - "\xA1Ha!"
+    - My powers have confused you
+    - You are a loser
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 1
   associatedSymptom: 3

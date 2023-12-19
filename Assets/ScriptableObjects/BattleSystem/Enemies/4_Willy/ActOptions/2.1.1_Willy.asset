@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.1_Willy
   m_EditorClassIdentifier: 
-  name: "\xBFC\xF3mo no? Si nunca servir\xE1s"
+  name: How not? if you worth nothing
   nextActOptions: []
   response:
     sentences:
-    - "Mi mam\xE1 se la pasa diciendome eso"
-    - "Yo solo quer\xEDa jugar..."
+    - My mom always tells me that
+    - I only wanted to play with you...
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 6

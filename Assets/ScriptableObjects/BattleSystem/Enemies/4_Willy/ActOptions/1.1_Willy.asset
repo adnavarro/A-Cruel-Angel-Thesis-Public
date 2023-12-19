@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1_Willy
   m_EditorClassIdentifier: 
-  name: "No s\xE9 qu\xE9 hacer, atacar o correr"
+  name: I don't know what to do, should I attack or run?
   nextActOptions:
   - {fileID: 11400000, guid: 01327814f36743749880012af2ff81b3, type: 2}
   - {fileID: 11400000, guid: 54a54aef34c20904fab12965c4588c0e, type: 2}
   response:
     sentences:
-    - Lo mejor que puedes hacer es
-    - Prepararte para tu derrota
+    - The best thing that ypu can do is
+    - Prepare for your defeat
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 3

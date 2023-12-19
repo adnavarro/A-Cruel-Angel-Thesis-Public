@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_Willy
   m_EditorClassIdentifier: 
-  name: "Nunca podr\xE1s hacer amigos"
+  name: You will never have friends
   nextActOptions:
   - {fileID: 11400000, guid: 2cc59598020383d4787d0e26afbeaa04, type: 2}
   - {fileID: 11400000, guid: 900f541ed1332fd4cb4fc91ce59b4c76, type: 2}
   response:
     sentences:
-    - Oye...
-    - No seas malo conmigo
+    - Hey...
+    - Don't be so rude to me
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 6

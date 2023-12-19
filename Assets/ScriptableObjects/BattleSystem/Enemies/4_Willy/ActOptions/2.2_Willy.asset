@@ -12,25 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_Willy
   m_EditorClassIdentifier: 
-  name: Seamos amigos entonces
+  name: Let's be friends then
   nextActOptions:
   - {fileID: 11400000, guid: ba156735b7dd0bd43a89787219fb03cd, type: 2}
   - {fileID: 11400000, guid: e0e1c4f4863469f48bcd5ed5829d6107, type: 2}
   response:
     sentences:
-    - "\xA1Est\xE1 bien!"
-    - "Pero tendr\xE1s que ayudarme con mis tareas"
-    - "Llamarme todos los d\xEDas"
-    - Leerme cuentos
-    - Hacerme la comida
-    - Lavarme la ropa
-    - "Pasarme las respuestas de los ex\xE1menes"
-    - Ayudarme a soportar a mi madre
-    - Darme muchos besitos
-    - Hacerme mimos
-    - Cantarme
-    - Y jugar conmigo
+    - Ok!
+    - But you will need to help me with my homework
+    - Call me every day
+    - Read me books
+    - Make my food
+    - Do my laundry
+    - Give me the answers of my tests
+    - Help me fight my mother
+    - Give me a lot of kisses
+    - Spoil me
+    - Sing to me
+    - And play with me
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17
