@@ -214,6 +214,7 @@ MonoBehaviour:
   isQuestNpc: 0
   questType: 2
   isOptionalAndAppearedBefore: 1
+  noInteractuable: 0
   dialogueOptions:
   - {fileID: 11400000, guid: bed29ad133e9b7b41a387c060a3418d6, type: 2}
   - {fileID: 11400000, guid: ab19d754eed90c546ba7a103d5501467, type: 2}
@@ -321,6 +322,7 @@ MonoBehaviour:
   isQuestNpc: 0
   questType: 2
   isOptionalAndAppearedBefore: 0
+  noInteractuable: 0
   dialogueOptions:
   - {fileID: 11400000, guid: 3e78d7677962da84f9da2a4fdeb5f5c2, type: 2}
   - {fileID: 11400000, guid: 3804aa0585413b945b9f958126a5523b, type: 2}
@@ -462,6 +464,7 @@ MonoBehaviour:
   isQuestNpc: 0
   questType: 0
   isOptionalAndAppearedBefore: 0
+  noInteractuable: 0
   dialogueOptions:
   - {fileID: 11400000, guid: a1744558495aefb4c84892b955745a77, type: 2}
   - {fileID: 11400000, guid: 6d5d0871db5527149ae348954ac09e86, type: 2}
@@ -706,6 +709,10 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 133589372187050633, guid: 277faabd84df7524db681e28d59d4403, type: 3}
+      propertyPath: m_text
+      value: Use
+      objectReference: {fileID: 0}
     - target: {fileID: 1015110930260236228, guid: 277faabd84df7524db681e28d59d4403, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -713,6 +720,10 @@ PrefabInstance:
     - target: {fileID: 1015110930260236228, guid: 277faabd84df7524db681e28d59d4403, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4292445906813388162, guid: 277faabd84df7524db681e28d59d4403, type: 3}
+      propertyPath: m_text
+      value: Drop
       objectReference: {fileID: 0}
     - target: {fileID: 4862833934074810090, guid: 277faabd84df7524db681e28d59d4403, type: 3}
       propertyPath: m_Pivot.x
@@ -919,6 +930,7 @@ MonoBehaviour:
   isQuestNpc: 0
   questType: 2
   isOptionalAndAppearedBefore: 0
+  noInteractuable: 0
   dialogueOptions:
   - {fileID: 11400000, guid: f0228c92d72302c48b4fb38fef532299, type: 2}
   - {fileID: 11400000, guid: 291b7220328c6dc46bb38b14bf797496, type: 2}
@@ -1413,6 +1425,7 @@ MonoBehaviour:
   isQuestNpc: 0
   questType: 2
   isOptionalAndAppearedBefore: 0
+  noInteractuable: 0
   dialogueOptions:
   - {fileID: 11400000, guid: ec29bec3bd01d5046ac02368fa60d962, type: 2}
   - {fileID: 11400000, guid: 511e46fe65a104c4c9ee14217973f28d, type: 2}
@@ -2069,6 +2082,7 @@ MonoBehaviour:
   isQuestNpc: 0
   questType: 2
   isOptionalAndAppearedBefore: 0
+  noInteractuable: 0
   dialogueOptions:
   - {fileID: 11400000, guid: 741f1c5ee9af32e4a8d606bc4b46c39d, type: 2}
   - {fileID: 11400000, guid: 3f6c10f96eeca954a9d4afd66e91d870, type: 2}

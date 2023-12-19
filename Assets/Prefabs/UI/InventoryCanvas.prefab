@@ -1628,7 +1628,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Usar
+  m_text: Use
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e13f728c086970942833ded35856d3fc, type: 2}
   m_sharedMaterial: {fileID: -793760224388455327, guid: e13f728c086970942833ded35856d3fc, type: 2}
@@ -2688,7 +2688,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Botar
+  m_text: Drop
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e13f728c086970942833ded35856d3fc, type: 2}
   m_sharedMaterial: {fileID: -793760224388455327, guid: e13f728c086970942833ded35856d3fc, type: 2}
@@ -3426,7 +3426,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Men\xFA Principal"
+  m_text: Main Menu
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e13f728c086970942833ded35856d3fc, type: 2}
   m_sharedMaterial: {fileID: -793760224388455327, guid: e13f728c086970942833ded35856d3fc, type: 2}
