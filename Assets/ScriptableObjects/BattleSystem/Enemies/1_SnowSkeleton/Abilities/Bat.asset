@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Bat
   m_EditorClassIdentifier: 
-  name: Batear
+  name: To bat
   baseAttack: 20
   responses:
   - sentences:
-    - "\xA1EPA!"
-    - Oye eso duele amigo...
+    - HEY!
+    - That hurts bro
     phase: 0
   - sentences:
-    - "\xA1Para!"
-    - Me vas a romper los huesos
+    - STOP!
+    - You're going to break my bones
     phase: 0

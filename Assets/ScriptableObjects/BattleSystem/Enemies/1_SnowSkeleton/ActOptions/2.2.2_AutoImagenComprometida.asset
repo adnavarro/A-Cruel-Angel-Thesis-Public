@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.2_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: Seguramente lo ocultan para no lastimarte
+  name: They probably hide it so as not to hurt you
   nextActOptions: []
   response:
     sentences:
-    - "S\xED"
-    - "Esa es la impresi\xF3n que siempre he tenido"
+    - Yes
+    - That's has been always my impression
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 12

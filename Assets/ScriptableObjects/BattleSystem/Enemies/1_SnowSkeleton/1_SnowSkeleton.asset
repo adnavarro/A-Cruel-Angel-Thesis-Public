@@ -33,35 +33,29 @@ MonoBehaviour:
   baseAttack: 25
   dialoguePhase:
   - sentences:
-    - "Oye no te lo tomes as\xED"
-    - Tomatelo a sorbos
+    - Hey don't take it that way
+    - Go with the flow
     phase: 1
-    condition: {fileID: 0}
   - sentences:
-    - Jeje
-    - Parece que eres de pocos amigos
+    - Hehe
+    - It seems that you have few friends
     phase: 2
-    condition: {fileID: 0}
   - sentences:
-    - "Est\xE1 bien"
-    - "Me ir\xE9 de aqu\xED"
+    - It's ok
+    - I'll go
     phase: 3
-    condition: {fileID: 0}
   dialoguePresentation:
   - sentences:
-    - No me veas
-    - Soy horrible
+    - Don't look at me
+    - I'm horrible
     phase: 0
-    condition: {fileID: 0}
-  dialogueAttack:
+  dialogueCommentary:
   - sentences:
-    - El esqueleto se mueve sensualmente
+    - The skeleton moves sensually
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - El esqueleto trata de seducirte con su gusto por la moda
+    - The skeleton tries to seduce you with his taste in fashion
     phase: 0
-    condition: {fileID: 0}
   maxDepressionPhase: 3
   actOptions:
   - {fileID: 11400000, guid: ef91db23747686e4d8f651cc17ba39e1, type: 2}

@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.1_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: "Por eso deber\xEDas darte cuenta que no lo eres"
+  name: That's why you should realize that you are not
   nextActOptions: []
   response:
     sentences:
-    - "\xBFSer\xE1?"
-    - "\xBFHE VIVIDO MI VIDA EN UNA MENTIRA?"
+    - Could it be?
+    - MY WHOLE LIFE IS A LIE?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

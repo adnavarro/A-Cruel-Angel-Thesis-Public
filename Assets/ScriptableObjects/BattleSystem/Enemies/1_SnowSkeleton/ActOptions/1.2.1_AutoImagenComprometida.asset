@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.1_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: Pero yo veo que te ves muy bien
+  name: But, I think that you look good
   nextActOptions: []
   response:
     sentences:
-    - Existen diferentes formas de ver
-    - "La tuya es una muy extra\xF1a"
+    - There are different ways of seeing
+    - Yours is quite strange
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

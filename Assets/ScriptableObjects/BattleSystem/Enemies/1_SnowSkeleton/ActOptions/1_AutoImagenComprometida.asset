@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: "Dependemos de como nos ven los dem\xE1s"
+  name: We depend on how others see us
   nextActOptions:
   - {fileID: 11400000, guid: ef2c2a02ff2757942b3e25a3372141d6, type: 2}
   - {fileID: 11400000, guid: 0d26a8268f4c2fc45931ace10fe8b6f0, type: 2}
   response:
     sentences:
-    - Yo siempre he creido que me veo muy mal
+    - I have always believed that I look very bad
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 1
   associatedSymptom: 12

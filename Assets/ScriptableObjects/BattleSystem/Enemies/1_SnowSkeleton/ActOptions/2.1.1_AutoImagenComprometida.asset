@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.1_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: "Nadie nunca estar\xE1 con alguien feo como t\xFA"
+  name: No one will ever be with someone as ugly as you
   nextActOptions: []
   response:
     sentences:
-    - Estoy totalmente de acuerdo
-    - "Tendr\xE9 que acostumbrarme a la soledad"
+    - I completely agree
+    - I'll have to get used to solitude
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 12

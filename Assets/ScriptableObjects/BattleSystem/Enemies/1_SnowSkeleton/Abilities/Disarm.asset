@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Disarm
   m_EditorClassIdentifier: 
-  name: Desarmar
+  name: Disarm
   baseAttack: 30
   responses:
   - sentences:
-    - "\xA1OYE!"
-    - Regresame mi brazo
-    - Que usualmente lo utilizo bastante
+    - HEY!
+    - Give me back my arm
+    - Usually is pretty useful
     phase: 0
   - sentences:
-    - Bah, tranquilo
-    - Total, esa parte de mi cuerpo no la utilizo mucho
+    - Bah, easy
+    - Overall, I don't use that part of my body much
     phase: 0

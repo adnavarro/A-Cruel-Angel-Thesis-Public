@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: Eso no supone que no seas una buena persona
+  name: That doesn't mean you're not a good person
   nextActOptions:
   - {fileID: 11400000, guid: c1181551d91d88948a59723754074ab2, type: 2}
   - {fileID: 11400000, guid: 63be69a74e2cfc7409d7253822cd3a7b, type: 2}
   response:
     sentences:
-    - Eso lo tengo claro
-    - Pero soy horroroso
-    - "Ayer hasta espant\xE9 a mi hermanita"
+    - I know that
+    - But I'm horrible
+    - Yesterday I even scared my little sister
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

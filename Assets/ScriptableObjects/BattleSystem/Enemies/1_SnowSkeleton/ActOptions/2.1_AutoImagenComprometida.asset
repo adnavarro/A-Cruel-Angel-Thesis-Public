@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: "S\xED, debe ser que no eres atractivo"
+  name: Yeah, maybe you're not attractive
   nextActOptions:
   - {fileID: 11400000, guid: 73af03451ace9224ab025dc3608ead5a, type: 2}
   - {fileID: 11400000, guid: 1dcdd0fa61b6e524d9d9a80d062d5524, type: 2}
   response:
     sentences:
-    - "Al fin alguien est\xE1 de acuerdo conmigo "
-    - "Ya puedes entender porque nunca podr\xE9 tener pareja"
+    - Finally someone agrees with me
+    - You can understand why I will never have a significant other
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 12

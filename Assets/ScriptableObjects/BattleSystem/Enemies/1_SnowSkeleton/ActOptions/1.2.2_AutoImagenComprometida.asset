@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.2_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: "Los feos tambi\xE9n tienen un espacio en el mundo"
+  name: Ugly people also have a place in the world
   nextActOptions: []
   response:
     sentences:
-    - Pues el mio es en un pedestal
+    - Well, mine is on a pedestal
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 12

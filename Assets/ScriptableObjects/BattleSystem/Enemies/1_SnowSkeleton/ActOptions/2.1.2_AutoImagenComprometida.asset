@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.2_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: "Existe la cirugia pl\xE1stica"
+  name: There is plastic surgery
   nextActOptions: []
   response:
     sentences:
-    - Justamente eso estaba pensando hacer
+    - I was thinking about doing that
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

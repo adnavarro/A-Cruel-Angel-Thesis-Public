@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.2_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: Lo importante es la belleza de tu interior
+  name: The important thing is the interior beauty
   nextActOptions: []
   response:
     sentences:
-    - Esa es la que no se ve
+    - You can't see that
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

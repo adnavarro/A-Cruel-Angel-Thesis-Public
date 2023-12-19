@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: Los feos existen
+  name: Ugly people exist
   nextActOptions: []
   response:
     sentences:
-    - Totalmente...
-    - Y yo soy su rey
+    - Totally...
+    - And I'm their King
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 1
   associatedSymptom: 12

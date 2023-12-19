@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Bite
   m_EditorClassIdentifier: 
-  name: Morder
+  name: Bite
   baseAttack: 25
   responses:
   - sentences:
-    - Odio cuando los perros me muerden
-    - "Y AHORA UN HUMANO TAMBI\xC9N LO HACE"
+    - I hate when dogs bites me
+    - AND NOW A HUMAN IS DOING IT
     phase: 0
   - sentences:
-    - Oye me vas a abrir huecos en los huesos
-    - "No podr\xE9 mostrar con tranquilidad mi bella figura"
+    - Listen, you're going to open some holes in my bones
+    - I will not be able to show my gorgeous body
     phase: 0

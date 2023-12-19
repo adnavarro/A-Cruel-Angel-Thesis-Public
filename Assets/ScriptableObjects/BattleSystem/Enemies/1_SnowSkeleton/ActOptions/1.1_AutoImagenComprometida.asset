@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: "Al menos est\xE1s consciente de que eres feo"
+  name: At least you know that your ugly
   nextActOptions:
   - {fileID: 11400000, guid: 71c11733e8ecef042bd8b367760845e4, type: 2}
   - {fileID: 11400000, guid: 66950170c8918914aa20269e196d2cda, type: 2}
   response:
     sentences:
-    - 'O sea que... '
-    - "\xBFT\xFA me ves feo tambi\xE9n?"
+    - So...
+    - You think that I'm ugly too?
     phase: 0
   depressionPoints: 2
   associatedSymptom: 12

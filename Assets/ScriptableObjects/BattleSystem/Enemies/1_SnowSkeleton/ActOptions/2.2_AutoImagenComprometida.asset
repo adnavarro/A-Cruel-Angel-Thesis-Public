@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_AutoImagenComprometida
   m_EditorClassIdentifier: 
-  name: "\xBFRealmente alguien te ha dicho que eres feo?"
+  name: Has anyone really told you that you are ugly?
   nextActOptions:
   - {fileID: 11400000, guid: 80a9e7487adca944eaa93d034deb3e5b, type: 2}
   - {fileID: 11400000, guid: fcae4e611ec402b4cb8bcc6817fb19b7, type: 2}
   response:
     sentences:
-    - Ahora que lo pienso
-    - En realidad no
-    - Pero no hace falta que me lo digan
+    - Now that I think about it
+    - They don't
+    - But they don't need to tell me...
+    - ' It''s very clear that they have thought about it'
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17
