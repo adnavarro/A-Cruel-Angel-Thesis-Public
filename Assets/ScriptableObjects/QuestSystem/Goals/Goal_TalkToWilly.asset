@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Goal_TalkToWilly
   m_EditorClassIdentifier: 
   id: 1
-  description: AYUDA A WILLY
+  description: HELP WILLY
   npcId: 0
   completed: 0
   isGoalActive: 1
+  reward: {fileID: 0}
+  nextDialogueId: 0

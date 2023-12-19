@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 0_Quest_Init
   m_EditorClassIdentifier: 
   id: 0
-  questName: Inicio
+  questName: Initial
   goals:
   - {fileID: 11400000, guid: beae403f91fc7cc45b24ad7c2b93fe65, type: 2}
-  completed: 0
+  completed: 1

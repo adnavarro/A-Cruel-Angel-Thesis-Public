@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 1_Goal_FishToRabbit
   m_EditorClassIdentifier: 
   id: 1
-  description: Lleva tres pescados a Kaninchen
+  description: Give 3 fishes to Kaninchen
   npcId: 2
   itemId: 5
   itemQuantity: 3

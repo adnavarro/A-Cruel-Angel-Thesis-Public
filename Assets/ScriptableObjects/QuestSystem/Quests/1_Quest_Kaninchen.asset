@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 1_Quest_Kaninchen
   m_EditorClassIdentifier: 
   id: 1
-  questName: "El conejo antip\xE1tico"
+  questName: The unfriendly rabbit
   goals:
   - {fileID: 11400000, guid: 5915ef649d1306c468ea011228e6824b, type: 2}
   completed: 0

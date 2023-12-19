@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 2_Goal_AppleForKuma
   m_EditorClassIdentifier: 
   id: 2
-  description: Lleva 3 Manzanas a Kuma
+  description: Give 3 apples to Kuma
   npcId: 3
   itemId: 1
   itemQuantity: 3

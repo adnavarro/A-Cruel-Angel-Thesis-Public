@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Quest_SlimeFamliy
   m_EditorClassIdentifier: 
   id: 0
-  questName: La familia babosa
+  questName: The Slime family
   goals:
   - {fileID: 11400000, guid: 78d13e29eb632cd45a75e2cb1d411093, type: 2}
   - {fileID: 11400000, guid: 3ca50345cef1f3940b3a9746caa3ad77, type: 2}
-  rewards: []
   completed: 0

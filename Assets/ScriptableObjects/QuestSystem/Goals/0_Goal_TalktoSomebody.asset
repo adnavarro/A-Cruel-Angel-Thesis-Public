@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: 0_Goal_TalktoSomebody
   m_EditorClassIdentifier: 
   id: 0
-  description: Habla con alguien
+  description: Talk with someone
   npcId: 1
-  completed: 0
-  isGoalActive: 1
+  completed: 1
+  isGoalActive: 0
   reward: {fileID: 0}
   nextDialogueId: 1

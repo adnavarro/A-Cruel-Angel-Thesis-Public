@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 2_Quest_Kuma
   m_EditorClassIdentifier: 
   id: 2
-  questName: Manzanas para Kuma
+  questName: Apples for Kuma
   goals:
   - {fileID: 11400000, guid: a56528a26d0b18842b03847f16865cd6, type: 2}
   completed: 0
