@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: "Realmente es dif\xEDcil de entender"
+  name: Is really hard to understand
   nextActOptions:
   - {fileID: 11400000, guid: 7daab39a8d950004aa39bcddb0445156, type: 2}
   - {fileID: 11400000, guid: 6229ce6298803fd4c94f1c813ffb432e, type: 2}
   response:
     sentences:
-    - Pareciera que sabes de lo que hablo
+    - It seems that you know what I'm talking about
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 4

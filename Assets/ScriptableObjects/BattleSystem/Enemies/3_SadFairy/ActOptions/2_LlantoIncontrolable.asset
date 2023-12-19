@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: "Te entiendo, es dif\xEDcil detenerlo"
+  name: I know, is hard to understand
   nextActOptions:
   - {fileID: 11400000, guid: 628fe04b8aec2214faf8625c2b0d5020, type: 2}
   - {fileID: 11400000, guid: dcbfa4bdfe6d6ee418945175205459a2, type: 2}
   response:
     sentences:
-    - Es que no me entiendes
-    - Nadie lo ha hecho nunca
+    - But you don't understand me
+    - Nobody has ever done it
     phase: 0
   depressionPoints: 2
   associatedSymptom: 4

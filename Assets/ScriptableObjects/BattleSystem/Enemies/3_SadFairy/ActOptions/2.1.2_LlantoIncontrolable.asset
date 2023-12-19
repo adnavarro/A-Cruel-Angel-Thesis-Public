@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.2_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: Todos hemos llorado alguna vez
+  name: We have all cried at some point
   nextActOptions: []
   response:
     sentences:
-    - Gracias por entenderme
-    - Eres el primero
+    - Thanks for understanding
+    - You're the first
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: Eso no significa que no puedas mejorar
+  name: That doesn't mean you can't improve.
   nextActOptions:
   - {fileID: 11400000, guid: 19c3f0df81f082a40ac37c0a96c4e44a, type: 2}
   - {fileID: 11400000, guid: 6fa55296b84dafc488b9057a49c2886f, type: 2}
   response:
     sentences:
-    - No he podido mejorar antes
-    - Y ahora menos
+    - I've tried before without improvement
+    - And now is harder
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: "Inevitablemente se detendr\xE1 en alg\xFAn momento"
+  name: It will inevitably stop at some point
   nextActOptions:
   - {fileID: 11400000, guid: cbeee55b2772d3d419b6f2b7dabaef35, type: 2}
   - {fileID: 11400000, guid: 258ae185fee5ea54aa6b6cd9a293fa28, type: 2}
   response:
     sentences:
-    - Se ve que no has estado en estas circunstancias
+    - It seems that you have not been in these circumstances
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

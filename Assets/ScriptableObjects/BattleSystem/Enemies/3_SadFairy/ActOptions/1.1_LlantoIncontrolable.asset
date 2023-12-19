@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: Tambien he sentido que nadie me entiende
+  name: I have also felt that no one understands me
   nextActOptions:
   - {fileID: 11400000, guid: eefab6c7bd07c24459a0105e340ead59, type: 2}
   - {fileID: 11400000, guid: b32a1f1fa07617b45b19dd820ffdb89c, type: 2}
   response:
     sentences:
-    - Sin embargo...
-    - Yo no le veo salida
+    - Nontheless...
+    - I don't see the exit
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 4

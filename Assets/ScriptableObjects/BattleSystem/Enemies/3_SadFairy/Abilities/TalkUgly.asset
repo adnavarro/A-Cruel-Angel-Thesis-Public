@@ -12,17 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: TalkUgly
   m_EditorClassIdentifier: 
-  name: Hablar feo
+  name: Talk ugly
   baseAttack: 15
   responses:
   - sentences:
-    - "\xBFPor qu\xE9 me dices esas cosas tan horribles?"
-    - Eres malvado
+    - Why are you saying thouse awful things
+    - You're evil
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - "\xBFAcaso no tienes sentimientos?"
-    - Estoy llorando demasiado
-    - "Y no me est\xE1s ayudando"
+    - Don't you have any feelings?
+    - I'm crying so much
+    - And you are not helping
     phase: 0
-    condition: {fileID: 0}

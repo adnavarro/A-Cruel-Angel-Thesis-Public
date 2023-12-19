@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: "M\xE1s vale tarde que nunca"
+  name: Better late than never
   nextActOptions: []
   response:
     sentences:
-    - "Ojal\xE1 sea m\xE1s r\xE1pido de lo que pensamos"
+    - I hope it's faster than we think
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

@@ -15,8 +15,6 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: dc02760875d940644a89fac2c110e941, type: 3}
   font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
   id: 3
-  isAQuestEnemy: 0
-  isFirstTimeAppearing: 1
   enemySymptoms:
   - {fileID: 11400000, guid: 19a5c17da5e774648abd287ed51dd3d2, type: 2}
   attackAbilities:
@@ -35,49 +33,40 @@ MonoBehaviour:
   baseAttack: 10
   dialoguePhase:
   - sentences:
-    - No te quiero lastimar
+    - I don't want to hurt you
     phase: 1
-    condition: {fileID: 0}
   - sentences:
-    - Tengo miedo
-    - "No me provoca hacerte da\xF1o"
+    - I'm scared
+    - I don't want to hurt you
     phase: 1
-    condition: {fileID: 0}
   - sentences:
-    - "Oye d\xE9jalo"
-    - No me lastimes
+    - Just stop please
+    - Don't hurt me
     phase: 2
-    condition: {fileID: 0}
   - sentences:
-    - Nadie me quiere
-    - Todos me odian
+    - No one likes me
+    - Everyone hates me
     phase: 3
-    condition: {fileID: 0}
   dialoguePresentation:
   - sentences:
-    - No puedo parar de llorar
+    - I can't stop crying
     phase: 0
-    condition: {fileID: 0}
-  dialogueAttack:
+  dialogueCommentary:
   - sentences:
-    - "\xBFQu\xE9 le estar\xE1 pasando a esa hada?"
+    - What is that fairy thinking?
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - "\xBFSer\xE1 esta hada familia del Hada de los besos?"
+    - Is this fairy a relative of the Kiss Fairy?
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - Ver tantas lagrimas en los ojos del hada
-    - Hace que te provoque llorar
+    - Seeing so much tears
+    - Makes you want to cry to
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - "\xBFQu\xE9 es ese hueco que tiene el hada?"
-    - "\xBFEs su boca o parte de su vestido?"
-    - No logras responder tu duda
+    - What is that hole that the fairy has?
+    - Is her mouth or her dress?
+    - You never found the answer
     phase: 0
-    condition: {fileID: 0}
   maxDepressionPhase: 3
   actOptions:
   - {fileID: 11400000, guid: 7dfafd28083d7b14baddd564478dc8d6, type: 2}

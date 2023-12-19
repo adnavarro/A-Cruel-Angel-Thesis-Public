@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.2_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: A veces me he sentido igual
+  name: Sometimes I have felt the same
   nextActOptions: []
   response:
     sentences:
-    - "Aun as\xED no creo que me entiendas"
-    - Pasa lo mismo con todo el que me habla
+    - Still, I don't think you understand me
+    - I'ts the same with everyone who talks to me.
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 4

@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.1_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: "\xBFC\xF3mo puedo ayudarte?"
+  name: How can I help you?
   nextActOptions: []
   response:
     sentences:
-    - Ya hiciste bastante
-    - Me has escuchado
+    - You did enough
+    - You have listened to me
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

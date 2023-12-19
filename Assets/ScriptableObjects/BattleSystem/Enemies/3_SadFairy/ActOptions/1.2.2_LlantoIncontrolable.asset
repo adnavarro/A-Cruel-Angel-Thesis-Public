@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.2_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: "Tendr\xE1s que manejar este problema t\xFA solo"
+  name: You will have to handle this problem alone
   nextActOptions: []
   response:
     sentences:
-    - "Ser\xE1 dif\xEDcil"
+    - It's going to be difficult
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 4

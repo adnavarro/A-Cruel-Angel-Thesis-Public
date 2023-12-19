@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_LlantoIncontrolable
   m_EditorClassIdentifier: 
-  name: "Todo tiene soluci\xF3n en la vida"
+  name: Everything have a solution in life
   nextActOptions:
   - {fileID: 11400000, guid: 2ba1251f4bf0e8b4dad9c04282903b6b, type: 2}
   - {fileID: 11400000, guid: 83d271982b6d7244a8fb899d70a275fe, type: 2}
   response:
     sentences:
-    - "Esto no tiene soluci\xF3n alguna"
-    - "Y nunca la tendr\xE1"
+    - This doesn't have any solution
+    - And it would never have
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17
