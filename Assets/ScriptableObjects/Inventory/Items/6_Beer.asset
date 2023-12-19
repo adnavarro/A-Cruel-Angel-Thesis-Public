@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 6_Beer
   m_EditorClassIdentifier: 
   id: 6
-  displayName: Cerveza
-  description: Un rico jugo de cevada
+  displayName: Beer
+  description: A delicious barley juice
   icon: {fileID: 21300000, guid: 7673118ef0272104e82ca7f864610cc7, type: 3}
   quantity: 0
   isDroppable: 1

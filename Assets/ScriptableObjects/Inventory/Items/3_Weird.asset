@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 3_Weird
   m_EditorClassIdentifier: 
   id: 3
-  displayName: Fruta Rara
-  description: "Una fruta extra\xF1a, nadie sabe su origen"
+  displayName: Weird fruit
+  description: A weird fruit, no one knows its origin
   icon: {fileID: 8355029734535885982, guid: fb4d317f5a9b01242b0f6b36a2942a39, type: 3}
   quantity: 0
   healthIncreaseAmount: 50

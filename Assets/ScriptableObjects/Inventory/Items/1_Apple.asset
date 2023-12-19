@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 1_Apple
   m_EditorClassIdentifier: 
   id: 1
-  displayName: Manzana
-  description: Una manzana loca
+  displayName: Apple
+  description: A crazy apple
   icon: {fileID: 21300000, guid: b45eccf8fc1a42999e99883ebde857c0, type: 3}
   quantity: 0
   healthIncreaseAmount: 20

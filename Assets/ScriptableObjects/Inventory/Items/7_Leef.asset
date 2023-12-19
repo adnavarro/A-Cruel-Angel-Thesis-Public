@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 7_Leef
   m_EditorClassIdentifier: 
   id: 7
-  displayName: Mata Misteriosa
-  description: "Una extra\xF1a planta que no sabes si comsumir"
+  displayName: Leef
+  description: Why is MJ writen here?
   icon: {fileID: 21300000, guid: 59762b18f2eae7644be609345225146c, type: 3}
   quantity: 0
   isDroppable: 1
