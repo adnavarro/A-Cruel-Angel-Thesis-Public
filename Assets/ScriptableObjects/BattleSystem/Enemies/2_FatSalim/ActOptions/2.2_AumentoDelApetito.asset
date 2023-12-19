@@ -12,17 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: Conozcamos nuevas chicas
+  name: Let's meet some girls!
   nextActOptions:
   - {fileID: 11400000, guid: 536ecb030fc418c41886769f057f341a, type: 2}
   - {fileID: 11400000, guid: af24b8c6c5076bd42888e49a960661e5, type: 2}
   response:
     sentences:
-    - Nunca nadie me va a querer
-    - Soy gordo, feo y huelo mal
-    - "Adem\xE1s"
-    - No creo que pueda reemplazar las experiencias que tuve con mi amada
+    - No one is ever going to like me
+    - I'm fat, ugly and I smell bad
+    - And also
+    - I don't think I can replace the experiences I had with my beloved
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

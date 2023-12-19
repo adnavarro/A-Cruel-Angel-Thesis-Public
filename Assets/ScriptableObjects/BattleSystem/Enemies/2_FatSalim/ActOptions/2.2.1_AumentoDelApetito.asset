@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.1_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: "Nunca la podr\xE1s olvidar"
+  name: You'll never forget her
   nextActOptions: []
   response:
     sentences:
-    - "Lo s\xE9"
-    - "Y este dolor nunca se podr\xE1 ir"
+    - I know
+    - And this pain will never go away
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 1

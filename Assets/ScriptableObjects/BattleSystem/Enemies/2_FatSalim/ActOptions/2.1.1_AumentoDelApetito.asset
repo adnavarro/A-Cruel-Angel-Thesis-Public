@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.1_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: "El dolor de tu perdida no se ir\xE1"
+  name: The pain of your loss will not go away
   nextActOptions: []
   response:
     sentences:
-    - "Tienes raz\xF3n amigo"
-    - Ahora solo me queda recordarla
+    - Your right my friend
+    - Now I can only remember her
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 1

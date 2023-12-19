@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: Planifiquemos tu dieta
+  name: Let's plan your diet
   nextActOptions:
   - {fileID: 11400000, guid: b2ecc2be6f1c81c4495aeaa2347baa9b, type: 2}
   - {fileID: 11400000, guid: f34160928d01777448f7e79fcd22d74e, type: 2}
   response:
     sentences:
-    - Eres igual que ella
-    - Solo pensando en la figura
+    - You're just like her
+    - Just thinking about body standards
     phase: 0
   depressionPoints: 0
   associatedSymptom: 17

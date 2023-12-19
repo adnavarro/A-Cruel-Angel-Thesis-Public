@@ -12,16 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Annoy
   m_EditorClassIdentifier: 
-  name: Molestar
+  name: Annoy
   baseAttack: 25
   responses:
   - sentences:
-    - Oye no me molestes
-    - Soy muy sensible
+    - Hey don't bother me
+    - I'm very sensitive
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - Eres un papanatas
-    - "\xBFLo sab\xEDas?"
+    - You are a jerk
+    - Did you knew that
     phase: 0
-    condition: {fileID: 0}

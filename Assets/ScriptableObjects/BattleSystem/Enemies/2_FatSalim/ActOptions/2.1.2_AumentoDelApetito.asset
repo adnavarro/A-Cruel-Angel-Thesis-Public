@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.2_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: "Mejor ve esta otra pel\xEDcula"
+  name: Better watch this other movie
   nextActOptions: []
   response:
     sentences:
-    - "Est\xE1 bien"
-    - "Intentar\xE9 ver esa pel\xEDcula"
-    - "Aunque me parta el coraz\xF3n"
+    - Ok
+    - I'll try to watch that other movie
+    - Even if it breaks my heart
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: Compitamos comiedo hamburguesas
+  name: Let's compete eating hamburgers
   nextActOptions:
   - {fileID: 11400000, guid: 43e84298ee2dbef46a597043164f874f, type: 2}
   - {fileID: 11400000, guid: 113e3381cdf7bac468346bd185c83536, type: 2}
   response:
     sentences:
-    - Uff, estoy lleno
-    - Mejor me voy a mi casa
-    - "Me pondr\xE9 a comer sushi mientras veo su pel\xEDcula favorita"
+    - Uff, I'm full
+    - I think I'm going home
+    - I'll eat sushi while watching her favorite movie
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 1

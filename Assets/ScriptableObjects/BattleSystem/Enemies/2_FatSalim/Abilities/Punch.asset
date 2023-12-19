@@ -12,17 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Punch
   m_EditorClassIdentifier: 
-  name: Pegar
+  name: Punch
   baseAttack: 10
   responses:
   - sentences:
-    - Tus golpes rebotan en mi gran panza
-    - "No podr\xE1s contra mi"
+    - Your blows bounce off my big belly
+    - You can't defeat me
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - Es eso un golpe
-    - "Amigo, haz karate o algo as\xED"
-    - "Con golpes tan suaves no llegar\xE1s a lastimarme"
+    - Is that a punch?
+    - Dude, go to karate or something
+    - With such soft blows you won't hurt me
     phase: 0
-    condition: {fileID: 0}

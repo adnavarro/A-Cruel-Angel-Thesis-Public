@@ -12,17 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: Bebamos por ella
+  name: Let's drink for her
   nextActOptions:
   - {fileID: 11400000, guid: 5a3c0551376e2394c88d75c31f1f230d, type: 2}
   - {fileID: 11400000, guid: fc52e252c8dd1f140b426c8a3aa1867f, type: 2}
   response:
     sentences:
     - "\xA1Hip!"
-    - "Este hidromiel est\xE1 buenisimo"
+    - This mead is delicious
     - "\xA1Hip!"
-    - "\xBFQu\xE9 otra genial idea tienes para mi?"
+    - What other great idea do you have for me?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 1

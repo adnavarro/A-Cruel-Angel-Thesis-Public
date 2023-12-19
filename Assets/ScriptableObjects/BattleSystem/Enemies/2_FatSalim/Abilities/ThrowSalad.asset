@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: ThrowSalad
   m_EditorClassIdentifier: 
-  name: Lanzar ensalada
+  name: Throw a salad
   baseAttack: 20
   responses:
   - sentences:
     - Noooooooooooooooooooo
-    - Una ensalada no por favor
+    - NOT A SALAD PLEASE
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - "Pues me la comer\xE9 igual"
-    - "\xBFCom\xF3 te qued\xF3 el ojo?"
+    - Well, I will eat it nontheless
+    - You didn't expect that!
+    - You bi1c# @ss
     phase: 0
-    condition: {fileID: 0}

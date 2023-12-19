@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: "Tienes raz\xF3n, tu situaci\xF3n es muy dif\xEDcil"
+  name: You're right, your situation is very difficult
   nextActOptions: []
   response:
     sentences:
-    - "Lo s\xE9 amigo"
-    - No soy nuevo en esto de la vida
-    - Muchas gracias por tu apoyo
-    - "Tomar\xE9 en cuenta lo que me dijiste"
+    - I know friend
+    - I'm not new in life
+    - Thank you for you support
+    - I'll take your advice in consideration
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 1

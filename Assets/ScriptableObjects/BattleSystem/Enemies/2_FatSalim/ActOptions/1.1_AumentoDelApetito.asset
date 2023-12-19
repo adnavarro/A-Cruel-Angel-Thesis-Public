@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: "Te prometo que ejercitarte te mejorar\xE1"
+  name: I promise you that exercising will make you better
   nextActOptions:
   - {fileID: 11400000, guid: f0208d3eed4b72346b31cd9e32207706, type: 2}
   - {fileID: 11400000, guid: a4afff2ba31cf3e4f86b553920222212, type: 2}
   response:
     sentences:
-    - Pero tengo miedo que la gente me juzgue
-    - ... O me deje como hizo mi esposa
+    - But I'm afraid that people will judge me
+    - ...or leave me like my wife did
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

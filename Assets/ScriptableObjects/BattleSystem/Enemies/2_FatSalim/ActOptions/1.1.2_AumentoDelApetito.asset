@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.2_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: "Yo siempre estar\xE9 a tu lado"
+  name: I'll always be by your side
   nextActOptions: []
   response:
     sentences:
-    - Eres muy buen amigo
-    - "\xBFQuieres casarte conmigo?"
+    - You're a good friend
+    - Wanna marry me?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

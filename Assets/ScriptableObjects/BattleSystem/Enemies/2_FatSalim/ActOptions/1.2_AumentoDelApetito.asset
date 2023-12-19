@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_AumentoDelApetito
   m_EditorClassIdentifier: 
-  name: "Ella siempre ser\xE1 parte de tu historia"
+  name: She will always be part of your story
   nextActOptions:
   - {fileID: 11400000, guid: dceb92053e69e734f92990dce0a02b5e, type: 2}
   - {fileID: 11400000, guid: 4f2b203d9a98de44180350be49e77488, type: 2}
   response:
     sentences:
-    - "S\xED"
-    - Por eso todo me recuerda a mi amor
-    - Y ahora que no estoy con ella
-    - "El resto de mi vida ser\xE1 una miseria"
+    - Yes
+    - But everything remains me of her
+    - And now that she is not by my side
+    - My life is going to be a misery
     phase: 0
   depressionPoints: 2
   associatedSymptom: 1
