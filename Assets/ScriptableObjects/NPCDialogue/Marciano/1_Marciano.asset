@@ -17,8 +17,8 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xA1Qu\xEDtate!"
-    - "Tengo cita con el m\xE9dico"
+    - Get out!
+    - I have a doctor's appointment
     phase: 0
   nextDialogueOptionIds: 02000000
   condition: {fileID: 0}

@@ -17,12 +17,12 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xA1HEY T\xDA!"
-    - "\xBFQuieres unirte a mi tripulaci\xF3n pirata?"
-    - "Soy el hombre que se convertir\xE1 en el rey de los piratas"
+    - HEY YOU!
+    - Wanna join my pirate crew?
+    - I am the man who will become the king of the pirates
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 01000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

@@ -17,10 +17,10 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - QUIERO CARNEEEE
+    - I WANT MEEEEEEEEEEET
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

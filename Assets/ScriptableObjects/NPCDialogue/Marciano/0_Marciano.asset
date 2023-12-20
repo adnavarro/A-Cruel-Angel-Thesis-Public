@@ -17,9 +17,9 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xA1Oye!"
-    - "Qu\xEDtate de mi camino"
-    - Estoy apurado
+    - Hey!
+    - Get out of my way
+    - I'm late!!
     phase: 0
   nextDialogueOptionIds: 01000000
   condition: {fileID: 0}

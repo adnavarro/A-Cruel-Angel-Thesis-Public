@@ -17,13 +17,12 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Por cierto
-    - Quiero carne
-    - COCINEEEROOOOO
-    - QUIERO CARNEEEE
+    - I want meet
+    - CHEEEEEEEEEEF
+    - I WANT MEEEEEEEEEEET
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 03000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

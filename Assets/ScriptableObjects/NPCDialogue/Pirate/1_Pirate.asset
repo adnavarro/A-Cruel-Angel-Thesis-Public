@@ -17,14 +17,13 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Somos unos cuantos ya en el barco
-    - Tengo a una navegante y a un espadachin
-    - A un cocinero y a un doctor
-    - A un mentiroso y a una arqueologa
-    - "Y estoy buscando a un m\xFAsico"
+    - I have a navigator and a swordsman
+    - A chef and a doctor
+    - A liar and an archaeologist
+    - And I'm looking for a musician
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 02000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}
