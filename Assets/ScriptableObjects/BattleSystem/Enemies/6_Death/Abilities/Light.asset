@@ -12,14 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Light
   m_EditorClassIdentifier: 
-  name: 'Magia: Luz'
+  name: 'Magic: Light'
   baseAttack: 30
   responses:
   - sentences:
     - "Th\xF3r-lush-shabarlak."
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - "Tus hechizos est\xE1n por debajo de mi nivel"
+    - Your spells are below my level
     phase: 0
-    condition: {fileID: 0}

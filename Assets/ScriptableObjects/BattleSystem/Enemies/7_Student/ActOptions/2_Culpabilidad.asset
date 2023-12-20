@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2_Culpabilidad
   m_EditorClassIdentifier: 
-  name: "De tantos intentos encontrar\xE1s la soluci\xF3n"
+  name: After so many attempts you will find the solution
   nextActOptions:
   - {fileID: 11400000, guid: fcb7ab7fa9520ec4f83d0c4936005973, type: 2}
   - {fileID: 11400000, guid: 08d5b72c21203fa4e83ce1631b628260, type: 2}
   response:
     sentences:
-    - Yo me siento optimista
-    - Si el proyecto no es en grupo
+    - I feel optimistic
+    - If the project is not with a team
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

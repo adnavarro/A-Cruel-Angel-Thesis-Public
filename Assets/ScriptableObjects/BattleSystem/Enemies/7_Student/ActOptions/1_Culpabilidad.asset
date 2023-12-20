@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1_Culpabilidad
   m_EditorClassIdentifier: 
-  name: Probablemente siempre lo has hecho mal
+  name: You've probably always done it wrong
   nextActOptions:
   - {fileID: 11400000, guid: 67402d4e6b4f7c94ca2ef851e3d531f6, type: 2}
   - {fileID: 11400000, guid: 0e01ef2cfc767264ca9dc90595624bd8, type: 2}
   response:
     sentences:
-    - "\xBFT\xFA crees que de verdad en las 3 oportunidades lo he hecho mal?"
+    - Do you really think that I have done it wrong on all 3 occasions?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 2

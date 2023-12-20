@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.2_Culpabilidad
   m_EditorClassIdentifier: 
-  name: Es que no tienes cualidad de lider
+  name: You don't have leadership qualities
   nextActOptions: []
   response:
     sentences:
-    - "Por esa misma frase dej\xE9 a mi ex"
-    - "No hablar\xE9 m\xE1s contigo"
+    - For that same phrase I broke up with my ex
+    - I will not talk with you
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 2

@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_PensamientoDeMuerte
   m_EditorClassIdentifier: 
-  name: "Pensar en la muerte no es \xFAtil"
+  name: Thinking about death is not useful
   nextActOptions:
   - {fileID: 11400000, guid: dae62205ff1e7af42981aa9d3a805448, type: 2}
   - {fileID: 11400000, guid: ebc799a527f3cae4891197b5b667d106, type: 2}
   response:
     sentences:
-    - "\xBFPero t\xFA crees en el cielo y en el infierno?"
+    - But...
+    - Do you belive in heaven and hell?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

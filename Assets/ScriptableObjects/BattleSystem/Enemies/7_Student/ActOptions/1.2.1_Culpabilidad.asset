@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.1_Culpabilidad
   m_EditorClassIdentifier: 
-  name: Si quieres vuelve a intentarlo
+  name: You can try again of you want
   nextActOptions: []
   response:
     sentences:
-    - "Lo pensar\xE9"
-    - "Son muchos cr\xE9ditos"
+    - I'll think about it
+    - It's has a lot of credits
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

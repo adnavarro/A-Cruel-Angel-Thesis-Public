@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_Culpabilidad
   m_EditorClassIdentifier: 
-  name: "No hay m\xE1s nada que explique lo que ha pasado"
+  name: There is nothing else that explain what happened.
   nextActOptions:
   - {fileID: 11400000, guid: 3b6cbade1d87c654d904addd9396ac8d, type: 2}
   - {fileID: 11400000, guid: 0a06aadf05b86724bb721daa06435b6e, type: 2}
   response:
     sentences:
-    - Se nota que no conoces esa materia
+    - You don't know how dificult my major is
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 2

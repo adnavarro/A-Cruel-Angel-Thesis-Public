@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.1_PensamientoDeMuerte
   m_EditorClassIdentifier: 
-  name: Prefiero pensar en la vida
+  name: I prefer to think about life
   nextActOptions: []
   response:
     sentences:
     - Ahhh
-    - "Que rid\xEDculo"
-    - Esta vida no tiene nada bueno que ofrecer
+    - How ridiculous
+    - This life has nothing good to offer
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

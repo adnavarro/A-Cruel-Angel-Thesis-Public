@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1_PensamientoDeMuerte
   m_EditorClassIdentifier: 
-  name: A un bar con mucha cerveza
+  name: A pub with a lot of beer
   nextActOptions:
   - {fileID: 11400000, guid: e40af1bc99fc48d4ead76c19143db59a, type: 2}
   - {fileID: 11400000, guid: ec1b85b96f444024c87f011f1748b465, type: 2}
   response:
     sentences:
-    - "No me est\xE1s tomando en serio"
+    - You are not taken me seriously
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.1_PensamientoDeMuerte
   m_EditorClassIdentifier: 
-  name: Tal vez adonde vayamos estaremos mejor
+  name: Maybe we'll be better off in another place
   nextActOptions: []
   response:
     sentences:
-    - "\xBFQui\xE9n sabe?"
-    - Nadie ha regresado para contarlo
+    - Who knows?
+    - No one has ever returned
     phase: 0
   depressionPoints: 2
   associatedSymptom: 9

@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.2_Culpabilidad
   m_EditorClassIdentifier: 
-  name: Ya tienes experiencia para encontrar uno mejor
+  name: You already have experience to find a better one
   nextActOptions: []
   response:
     sentences:
-    - "S\xED, por eso me ir\xE1 mejor en esta oportunidad"
+    - Yes, that's why this time is going to be better
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

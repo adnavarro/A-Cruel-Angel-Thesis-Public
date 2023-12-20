@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_PensamientoDeMuerte
   m_EditorClassIdentifier: 
-  name: "Dolorosa por distanciarme de los dem\xE1s"
+  name: Painful, because I'll distance myself from others
   nextActOptions:
   - {fileID: 11400000, guid: fb212ba24640c7047bb5f5ae2224874f, type: 2}
   - {fileID: 11400000, guid: 119976c83d70c2f42bd6af0cff774b3a, type: 2}
   response:
     sentences:
-    - "Yo no me preocupar\xEDa"
-    - "Ellos morir\xE1n tambi\xE9n"
+    - I would not worry
+    - They will die too
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 9

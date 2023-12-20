@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_PensamientoDeMuerte
   m_EditorClassIdentifier: 
-  name: "S\xED lo he pensado, pero no quiero hablar de eso"
+  name: I have thought about it, but I don't want to talk about it
   nextActOptions: []
   response:
     sentences:
-    - "Est\xE1 bien"
-    - "Respetar\xE9 tu decisi\xF3n"
+    - It's fine
+    - I will respect your decision
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 1
   associatedSymptom: 9

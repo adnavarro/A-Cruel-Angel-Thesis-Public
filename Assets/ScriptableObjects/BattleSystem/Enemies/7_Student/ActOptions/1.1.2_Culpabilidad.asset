@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.2_Culpabilidad
   m_EditorClassIdentifier: 
-  name: "Ojal\xE1 encuentres una soluci\xF3n"
+  name: I hope you find a solution
   nextActOptions: []
   response:
     sentences:
-    - Bueno he pensado en la Metro
+    - Maybe I will have a rice farm
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

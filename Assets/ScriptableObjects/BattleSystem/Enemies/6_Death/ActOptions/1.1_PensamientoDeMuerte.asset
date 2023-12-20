@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1_PensamientoDeMuerte
   m_EditorClassIdentifier: 
-  name: Prefiero pensar en alcohol que en la muerte
+  name: I prefer to think about alcohol than death
   nextActOptions:
   - {fileID: 11400000, guid: 99375302c64cd13459eb6ce1d0300db7, type: 2}
   - {fileID: 11400000, guid: 423239c50ef7784408bcb79d7e51a274, type: 2}
   response:
     sentences:
-    - Entonces
-    - "\xBFS\xED has pensado c\xF3mo ser\xEDa tu muerte?"
+    - So
+    - You do have thought about your death
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 1
   associatedSymptom: 9

@@ -12,11 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: ShutDownComputer
   m_EditorClassIdentifier: 
-  name: Apagar computadora
+  name: Shut down the computer
   baseAttack: 20
   responses:
   - sentences:
     - AHHHHHHHHHHHHHHHHHHHHHHH
-    - "PERD\xCD EL PROYECTO"
+    - I LOST MY PROJECT
     phase: 0
-    condition: {fileID: 0}

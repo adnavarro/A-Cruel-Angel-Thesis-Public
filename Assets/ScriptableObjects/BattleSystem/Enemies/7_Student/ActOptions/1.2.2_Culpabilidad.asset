@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.2_Culpabilidad
   m_EditorClassIdentifier: 
-  name: "Si las 3 veces no pudiste, fuiste t\xFA"
+  name: If you couldn't 3 times, it was you
   nextActOptions: []
   response:
     sentences:
-    - "Es f\xE1cil para ti decirlo"
-    - "T\xFA estudias comunicaci\xF3n"
+    - Easy for you to say
+    - Your major is soooooo easy
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 2

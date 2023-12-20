@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.1_Culpabilidad
   m_EditorClassIdentifier: 
-  name: No todos los grupos son iguales
+  name: Not all teams are the same
   nextActOptions: []
   response:
     sentences:
-    - "Encontrar\xE9 un grupo mejor"
-    - Los que hicieron esta tesis lo lograron
+    - I'll find a better one
+    - The ones who make this game made it through
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

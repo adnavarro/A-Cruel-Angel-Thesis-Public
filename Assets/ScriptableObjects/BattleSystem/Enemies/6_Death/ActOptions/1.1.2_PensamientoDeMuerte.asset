@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.2_PensamientoDeMuerte
   m_EditorClassIdentifier: 
-  name: Creo que es un estado oscuro y constante
+  name: I think it's a dark constant state
   nextActOptions: []
   response:
     sentences:
-    - Algo parecido he pensado yo
+    - I have thought the same thing
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 9

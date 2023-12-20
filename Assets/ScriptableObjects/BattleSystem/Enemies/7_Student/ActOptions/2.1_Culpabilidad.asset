@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_Culpabilidad
   m_EditorClassIdentifier: 
-  name: No todos los grupos son malos
+  name: Not all teams are bad
   nextActOptions:
   - {fileID: 11400000, guid: 33caebce5071b4b42a2330493856b4fe, type: 2}
   - {fileID: 11400000, guid: 38cc6da50dcbc674786966d674674926, type: 2}
   response:
     sentences:
-    - Pero hay que saberlos seleccionar
-    - Sino te cuesta la materia
+    - But you have to know how to select them
+    - If you don't, you will fail the class
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

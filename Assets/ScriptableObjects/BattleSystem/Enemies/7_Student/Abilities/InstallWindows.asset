@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: InstallWindows
   m_EditorClassIdentifier: 
-  name: Instalar Windows
+  name: Install Windows
   baseAttack: 10
   responses:
   - sentences:
-    - "\xBFQu\xE9 te ocurre?"
-    - "\xBFC\xF3mo utilizas windows?"
-    - Viva Linux Master Race
+    - Whats wrong with you?
+    - How can you use Windows?
+    - Long live Linux Master Race
     phase: 0
-    condition: {fileID: 0}

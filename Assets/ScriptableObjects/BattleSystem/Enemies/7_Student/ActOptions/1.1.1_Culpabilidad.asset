@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_Culpabilidad
   m_EditorClassIdentifier: 
-  name: El culpable siempre se excusa
+  name: The culprit always excuses himself
   nextActOptions: []
   response:
     sentences:
-    - Solo cuando es culpable
-    - "Adem\xE1s"
-    - "\xBFQu\xE9 vas a saber t\xFA?"
+    - Only when guilty
+    - Besides
+    - Who the f@#!k are you?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 2

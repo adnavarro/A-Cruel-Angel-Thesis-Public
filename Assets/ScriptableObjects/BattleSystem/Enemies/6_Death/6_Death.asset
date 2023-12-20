@@ -33,30 +33,30 @@ MonoBehaviour:
   baseAttack: 25
   dialoguePhase:
   - sentences:
-    - Veremos si logras seguirme el paso
+    - Let's see if you can keep it up
     phase: 1
   - sentences:
-    - "Tu alma ser\xE1 m\xEDa"
+    - Your soul will be mine
     phase: 1
   - sentences:
-    - Entregame tu ser
+    - Give me your being
     phase: 2
   - sentences:
-    - "Hoy no me llevar\xE9 tu alma"
+    - I will not take your soul today
     phase: 3
   dialoguePresentation:
   - sentences:
-    - "\xBFSabes ad\xF3nde vamos despu\xE9s de morir?"
+    - Do you know where we go after we die?
     phase: 0
   dialogueCommentary:
   - sentences:
-    - Un aura macabra se desprende
+    - A macabre aura emerges
     phase: 0
   - sentences:
-    - "En este momento lo \xFAnico que deseas es correr"
+    - Right now, all you want to do is run
     phase: 0
   - sentences:
-    - Un miedo intenso te invade todo el cuerpo
+    - An intense fear takes all of your body
     phase: 0
   maxDepressionPhase: 3
   actOptions:

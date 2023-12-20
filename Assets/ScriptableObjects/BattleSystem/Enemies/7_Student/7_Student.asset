@@ -33,31 +33,31 @@ MonoBehaviour:
   baseAttack: 10
   dialoguePhase:
   - sentences:
-    - "Oye necesito hacer 10 mil inserts para ma\xF1ana"
+    - Hey, I need to do 10 thousand inserts for tomorrow
     phase: 1
   - sentences:
-    - "Esto parece que no terminar\xE1"
+    - This will never end...
     phase: 2
   - sentences:
-    - "Me voy, necesito estudiar para el parcial que tengo ma\xF1ana"
-    - "Adem\xE1s del proyecto"
-    - "Y el ensayo de gesti\xF3n"
+    - I'm leaving, I need to study for the midterm I have tomorrow
+    - Also, I have a programing project
+    - And an essay
     phase: 3
   dialoguePresentation:
   - sentences:
-    - "Ay... intent\xE9 hacer de todo"
-    - Pero no pude aprobar desarrollo de software
-    - Por tercera vez
+    - I have tried everything
+    - But I failed my software development class
+    - For the 3th time
     phase: 0
   dialogueCommentary:
   - sentences:
-    - "\xBFSon lagrimas lo que salen de sus ojos?"
+    - Are those tears?
     phase: 0
   - sentences:
-    - "Te preguntas cu\xE1ntas horas llevar\xE1 en la computadora"
+    - You wonder, how many hours has he have been on the computer
     phase: 0
   - sentences:
-    - "\xBFSer\xE1 esa carrera tan dif\xEDcil como la da a entender?"
+    - Is that major really that hard?
     phase: 0
   maxDepressionPhase: 3
   actOptions:

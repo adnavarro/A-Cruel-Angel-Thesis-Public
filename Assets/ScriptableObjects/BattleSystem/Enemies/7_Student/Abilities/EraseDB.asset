@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: EraseDB
   m_EditorClassIdentifier: 
-  name: Borrar base de datos
+  name: Erase his DB
   baseAttack: 25
   responses:
   - sentences:
-    - ELIMINASTE MI BASE DE DATOS
-    - "PERD\xCD MIS 10 MIL INSERTS"
-    - TE ODIOOOO
+    - YOU DELETED MY DATABASE
+    - I LOST MY 10,000 INSERTS
+    - I HATE YOU!!!!
     phase: 0
-    condition: {fileID: 0}

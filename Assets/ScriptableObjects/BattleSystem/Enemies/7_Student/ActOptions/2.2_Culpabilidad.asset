@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_Culpabilidad
   m_EditorClassIdentifier: 
-  name: "Aunque sea en grupo t\xFA est\xE1s en \xE9l"
+  name: Even if it is in a team you are in it
   nextActOptions:
   - {fileID: 11400000, guid: 98142cfe916ac8b43ae23d45b02a3492, type: 2}
   - {fileID: 11400000, guid: 1266f96118f588a4a92c1aeb785bd034, type: 2}
   response:
     sentences:
-    - He tenido mala suerte con mis grupos
-    - Nunca trabajan
-    - Y se la echan al hombro
+    - I've had bad luck with teams
+    - They never do anything
+    - They are always lazy
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 2

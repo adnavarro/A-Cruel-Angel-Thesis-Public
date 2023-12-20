@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.1_Culpabilidad
   m_EditorClassIdentifier: 
-  name: O sea que no sabes escoger un grupo
+  name: So you don't know how to choose a team
   nextActOptions: []
   response:
     sentences:
-    - "Pareciera que escucho hablar a [inserte nombre del profesor m\xE1s apropiado]"
+    - You sound like [Insert professor name]
     phase: 0
   depressionPoints: 2
   associatedSymptom: 2

@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Knife
   m_EditorClassIdentifier: 
-  name: "Apu\xF1alar"
+  name: Stab
   baseAttack: 20
   responses:
   - sentences:
-    - "\xBFCrees que un simple cuchillo podr\xE1 conmigo?"
+    - Do you think a mere knife can hurt me?
     phase: 0
-    condition: {fileID: 0}

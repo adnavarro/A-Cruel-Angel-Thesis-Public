@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_PensamientoDeMuerte
   m_EditorClassIdentifier: 
-  name: Prefiero pensar en la vida, quiero vivirla
+  name: I prefer to think about life, I want to live
   nextActOptions:
   - {fileID: 11400000, guid: 70bcaab597abafd409707f35b2f06563, type: 2}
   - {fileID: 11400000, guid: a0a88833b738e6a4f883fc1f518e85e3, type: 2}
   response:
     sentences:
-    - "Yo tambi\xE9n he pensado en vivir"
-    - Pero no me gusta
-    - La muerte puede llegar a ser interesante
+    - I have also thought about living
+    - But it's annoying
+    - Death could be interesting
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17
