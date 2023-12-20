@@ -18,11 +18,11 @@ MonoBehaviour:
   dialogue:
     sentences:
     - Ahh
-    - Veo que lograste llegar
-    - Bueno pues
+    - I see that you find your way here
+    - Well then
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 01000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

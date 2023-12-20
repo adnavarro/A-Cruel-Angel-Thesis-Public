@@ -13,14 +13,18 @@ MonoBehaviour:
   m_Name: 3_Kaninchen
   m_EditorClassIdentifier: 
   npcId: 2
-  Id: 3
+  id: 3
   buttonText: 
   dialogue:
     sentences:
-    - Traeme 3 pescados
-    - "Solo de esa manera te dar\xE9 paso a las vias que llevan al pueblo"
+    - Bring me 3 fishes
+    - It's the only way you will get through
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 04000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
+  symptomAttached: {fileID: 0}
   endsOnBattle: 0
+  isSymptomQuestion: 0

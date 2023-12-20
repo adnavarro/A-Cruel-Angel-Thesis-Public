@@ -17,11 +17,11 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xBFC\xF3mo?"
-    - "\xBFEl viejo Kaninchen te mand\xF3 a hacer qu\xE9?"
-    - "Ese viejo conejo cada d\xEDa est\xE1 m\xE1s loco"
-    - No le des mucha vuelta
-    - No es tu culpa
+    - What?
+    - The rabbit make you do wha?!
+    - That old rabbit is getting crazy by the minute
+    - Don't pay to much attention to it
+    - Is not your fault
     phase: 0
   nextDialogueOptionIds: 02000000
   condition: {fileID: 0}

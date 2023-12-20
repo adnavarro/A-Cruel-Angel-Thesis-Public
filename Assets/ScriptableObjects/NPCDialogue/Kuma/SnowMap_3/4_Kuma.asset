@@ -17,12 +17,11 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xA1Muchas gracias por las manzanas!"
-    - Te mereces un premio
-    - Trata de encontrar el bar del pueblo nevado
-    - "Ah\xED estar\xE9 yo esperando con una sorpresa"
+    - Thank you so much for the apples
+    - You deserve a reward
+    - Try to find the bar in the snowy town
+    - I will be there waiting with a surprise
     phase: 0
-    condition: {fileID: 11400000, guid: 430822aa0c6113443b7e06a7fe0c1a6f, type: 2}
   nextDialogueOptionIds: 
   condition: {fileID: 11400000, guid: 430822aa0c6113443b7e06a7fe0c1a6f, type: 2}
   quest: {fileID: 0}

@@ -13,16 +13,20 @@ MonoBehaviour:
   m_Name: 3_Kuma
   m_EditorClassIdentifier: 
   npcId: 3
-  Id: 3
+  id: 3
   buttonText: casa
   dialogue:
     sentences:
-    - Solo si puedes
-    - "\xBFPodr\xEDas traerme 3 manzanas?"
-    - "Entiendo que est\xE1s ocupado"
-    - No es obligatorio
+    - Only if you can...
+    - Could you bring me 3 apples?
+    - I know that you are busy
+    - It is not mandatory
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 04000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
+  symptomAttached: {fileID: 0}
   endsOnBattle: 0
+  isSymptomQuestion: 0

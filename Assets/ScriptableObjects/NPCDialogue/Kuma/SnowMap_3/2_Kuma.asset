@@ -13,18 +13,22 @@ MonoBehaviour:
   m_Name: 2_Kuma
   m_EditorClassIdentifier: 
   npcId: 3
-  Id: 2
+  id: 2
   buttonText: pueblo
   dialogue:
     sentences:
-    - Agradable forastero
-    - "\xBFPodr\xEDa pedirte un favor?"
-    - "\xBFPodr\xEDas regalarme tres manzanas?"
-    - Estas viejas patas ya no son tan fuertes como antes
-    - Pero no te preocupes
-    - Si no puedes, lo entiendo
+    - Pleasant stranger
+    - Can I ask you for a favor?
+    - Could you bring me 3 apples?
+    - These old pawns are not as strong as before
+    - But do not worry
+    - I understand if you can't do it right now
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 03000000
+  condition: {fileID: 0}
   quest: {fileID: 11400000, guid: 19e2868b05f35fd49a05faa95918e1f2, type: 2}
+  item: {fileID: 0}
+  reward: {fileID: 0}
+  symptomAttached: {fileID: 0}
   endsOnBattle: 0
+  isSymptomQuestion: 0

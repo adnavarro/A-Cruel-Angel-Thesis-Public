@@ -17,12 +17,12 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xA1Hola!"
-    - "Nunca te hab\xEDa visto"
-    - "\xBFQu\xE9 te trae por aqu\xED?"
-    - Con que el pueblo nevado
-    - "Si sigues el camino de la derecha podr\xE1s llegar"
-    - No no, gracias a ti por hablar conmigo
+    - Hi!
+    - I've never seen you before
+    - What brings you here?
+    - The snowy town?
+    - If you follow the path to the right you can reach it
+    - Nono, thanks to you for talking with me
     phase: 0
   nextDialogueOptionIds: 01000000
   condition: {fileID: 0}

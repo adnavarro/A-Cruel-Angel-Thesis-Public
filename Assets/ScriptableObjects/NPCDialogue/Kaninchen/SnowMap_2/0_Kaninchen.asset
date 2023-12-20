@@ -17,12 +17,12 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Hola forastero
-    - "\xBFCu\xE1les son tus intenciones en estas tierras?"
-    - "\xBFQu\xE9?"
-    - "\xBFQuieres ir al pueblo nevado?"
-    - Pobre de ti
-    - "No podr\xE1s pasar mientras yo me encuentre aqu\xED"
+    - Hello foreigner
+    - What are your intentions in this lands?
+    - What?
+    - You want to go to the snowy town?
+    - I feel sorry for you
+    - You will not be able to pass while I am here
     phase: 0
   nextDialogueOptionIds: 01000000
   condition: {fileID: 0}

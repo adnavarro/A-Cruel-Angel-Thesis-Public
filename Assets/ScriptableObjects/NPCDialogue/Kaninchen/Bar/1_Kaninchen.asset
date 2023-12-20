@@ -17,10 +17,10 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xBFUna recompensa?"
-    - "T\xFA s\xED que tienes agallas"
-    - Ya hice demasiado con dejarte pasar
-    - "Ahora d\xE9jame tranquilo"
+    - A reward?
+    - Don't make me laugh
+    - I did enough by letting you come here
+    - Now, leave me be
     phase: 0
   nextDialogueOptionIds: 02000000
   condition: {fileID: 0}

@@ -17,9 +17,9 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Mmm veo que ya los tienes.. vale te dejo pasar
+    - I see that you have them
+    - Go on then...
     phase: 0
-    condition: {fileID: 11400000, guid: 3656ef5419b2f7843a453d996174b622, type: 2}
   nextDialogueOptionIds: 05000000
   condition: {fileID: 11400000, guid: 3656ef5419b2f7843a453d996174b622, type: 2}
   quest: {fileID: 0}

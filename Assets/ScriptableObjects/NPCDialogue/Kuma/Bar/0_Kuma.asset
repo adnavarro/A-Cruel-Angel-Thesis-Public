@@ -18,13 +18,13 @@ MonoBehaviour:
   dialogue:
     sentences:
     - Jojooo
-    - "Aqu\xED est\xE1s"
-    - "Aqu\xED tienes mi amigo"
-    - Lo prometido es deuda
-    - "Ahora podr\xE1s cargar m\xE1s cosas en tu inventario"
+    - Here you are
+    - Here you have my friend
+    - What is promised is a debt
+    - Now you can load more things into your inventory
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 01000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 11400000, guid: 69ded3df73cbacd428dc433d92da5868, type: 2}

@@ -17,12 +17,12 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "Est\xE1 bien"
-    - Si tanto insistes
-    - "Tr\xE1eme 3 pescados y te dar\xE9 paso a las vias que llevan al pueblo"
-    - "\xBFNo tienes ca\xF1a de pesca?"
-    - Si eres molesto, por suerte tengo una
-    - "T\xF3mala..."
+    - Ok
+    - Since you insist so much
+    - Give me fishes and I will let you through
+    - You don't have a fishing rod?
+    - You're so annoying... Luckly, I have one
+    - Take it
     phase: 0
   nextDialogueOptionIds: 03000000
   condition: {fileID: 0}

@@ -17,7 +17,7 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "El camino al pueblo nevado deber\xE1s hallarlo t\xFA solo"
+    - You will need to find your way to the town by your own
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

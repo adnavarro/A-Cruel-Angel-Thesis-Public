@@ -17,10 +17,9 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Bueno pues
-    - "\xBFQu\xE9 m\xE1s quieres?"
-    - "Ded\xEDcate a lo tuyo"
-    - "Y yo me dedicar\xE9 a lo m\xEDo"
+    - Well then
+    - You want a kiss or something?
+    - Keep your own bussines
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

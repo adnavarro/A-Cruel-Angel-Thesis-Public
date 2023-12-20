@@ -17,9 +17,9 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xBFC\xF3mo puedes pasar?"
-    - Yo no acepto sobornos
-    - "Y menos de un sucio forastero como t\xFA"
+    - How can you go through?
+    - I don't take bribes
+    - And less if it is a dirty foreigner like you
     phase: 0
   nextDialogueOptionIds: 02000000
   condition: {fileID: 0}

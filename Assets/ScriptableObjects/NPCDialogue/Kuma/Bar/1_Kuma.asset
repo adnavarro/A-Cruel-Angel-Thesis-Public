@@ -17,11 +17,11 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "Este bolso nuevo ser\xE1 de mucha utilidad"
-    - "Estoy seguro que s\xED"
+    - Your new bag is going to be helpful
+    - I'm sure it will
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}
