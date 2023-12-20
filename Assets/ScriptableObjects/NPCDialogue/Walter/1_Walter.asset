@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcId: 5
   id: 1
-  buttonText: "S\xED"
+  buttonText: Yes
   dialogue:
     sentences:
-    - "Aqu\xED tienes"
-    - Disfruta tu cerveza
+    - Here you have
+    - Enjoy your beer
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

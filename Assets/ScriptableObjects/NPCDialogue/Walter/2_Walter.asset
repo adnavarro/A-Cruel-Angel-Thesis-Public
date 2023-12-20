@@ -17,9 +17,8 @@ MonoBehaviour:
   buttonText: No, gracias
   dialogue:
     sentences:
-    - Ahhh es que no puedes beber
-    - "Est\xE1 bien"
-    - Menos mal que me dijiste
+    - I understand, you can't drink
+    - It's ok
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

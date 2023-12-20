@@ -17,8 +17,8 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Hola, buenas tardes
-    - "\xBFDeseas una cerveza?"
+    - Hola, good evening
+    - Do you want a beer?
     phase: 0
   nextDialogueOptionIds: 0100000002000000
   condition: {fileID: 0}
