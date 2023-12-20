@@ -17,21 +17,21 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Oye amigo
-    - Parece que te has perdido
-    - Llegaste en la madrugada de ayer
-    - "\xBFNo recuerdas c\xF3mo has llegado aqu\xED?"
+    - Hey friend
+    - It seems that you are lost
+    - You have been here since yesterday
+    - Don't you remmember how did you got here?
     - Hmmmmm....
-    - "Si sigues adelante conseguir\xE1s el pueblo nevado"
-    - "Seguramente ah\xED encontrar\xE1s a alguien que pueda ayudarte"
-    - "Pero d\xE9jame darte una recomendaci\xF3n"
-    - Por estos lugares rondan muchas personas particulares
-    - "Tranquilo, estar\xE1s bien"
-    - Pero recuerda
-    - Solo elimina aquellos que consideres malignos
+    - If you keep moving foward, you'll find the snowy town
+    - Maybe there you'll find someone that could help you
+    - A little advice tho
+    - Peculiar people hang around these places.
+    - Don't worry, you'll be fine
+    - But keep in mind
+    - Only defeat the ones that seems evil to you
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 01000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

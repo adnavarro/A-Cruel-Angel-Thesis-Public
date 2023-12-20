@@ -17,13 +17,15 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Oye
-    - No te vayas
-    - Ven un segundo
+    - Hey
+    - Don't go
+    - Come here for a moment
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 
+  condition: {fileID: 0}
   quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
   symptomAttached: {fileID: 0}
   endsOnBattle: 0
   isSymptomQuestion: 0

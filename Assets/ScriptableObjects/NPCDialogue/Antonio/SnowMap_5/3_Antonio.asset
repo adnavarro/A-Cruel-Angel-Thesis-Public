@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcId: 1
   id: 3
-  buttonText: Muy bien
+  buttonText: Very good
   dialogue:
     sentences:
     - Ohhh
-    - Que bueno que te lleves bien con esta gente particular
-    - Son buenos amigos mios
-    - "Tr\xE1talos bien"
+    - Is good that you are getting along
+    - They are good friends
+    - Treat them well
     phase: 0
   nextDialogueOptionIds: 05000000
   condition: {fileID: 0}

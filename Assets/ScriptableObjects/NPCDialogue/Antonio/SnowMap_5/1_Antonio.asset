@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcId: 1
   id: 1
-  buttonText: Horrible
+  buttonText: Awful
   dialogue:
     sentences:
     - Hmmmmmm
-    - "\xBFC\xF3mo va a ser?"
-    - "Estar\xE9 observando tu recorrido..."
-    - ...Por cierto
-    - "\xBFC\xF3mo te han tratado las personas que te has encontrado?"
+    - I see...
+    - I'll keep an eye on you
+    - Also...
+    - How have the people you have met treated you?
     phase: 0
   nextDialogueOptionIds: 0300000004000000
   condition: {fileID: 0}

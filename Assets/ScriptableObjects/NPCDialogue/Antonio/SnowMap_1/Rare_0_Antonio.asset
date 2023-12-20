@@ -13,14 +13,18 @@ MonoBehaviour:
   m_Name: Rare_0_Antonio
   m_EditorClassIdentifier: 
   npcId: 1
-  Id: 0
+  id: 0
   buttonText: 
   dialogue:
     sentences:
-    - Oye amigo
-    - Ven un momento
+    - Hey friend
+    - Come here for a second
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 00000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
+  symptomAttached: {fileID: 0}
   endsOnBattle: 0
+  isSymptomQuestion: 0

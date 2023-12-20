@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcId: 10
   id: 1
-  buttonText: "S\xED, todo muy bien"
+  buttonText: So far, so good
   dialogue:
     sentences:
-    - Excelente
-    - Eres una buena persona
+    - Excellent
+    - You're a good person
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 0300000004000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

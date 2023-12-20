@@ -17,12 +17,11 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Tranquilo
-    - "Estar\xE1s bien"
-    - Espero volverte a ver pronto
+    - You'll be fine
+    - I hope I'll see you again
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

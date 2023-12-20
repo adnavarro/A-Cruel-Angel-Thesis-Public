@@ -17,13 +17,13 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xA1Hey!"
-    - "\xBFC\xF3mo has estado?"
-    - Creo que has conocido a varias personas
-    - "\xBFC\xF3mo crees que te ha ido en tu peque\xF1a aventura?"
+    - Hey!
+    - How are you doing?
+    - You meet a lot of people
+    - How is your adventure going?
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 0100000002000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

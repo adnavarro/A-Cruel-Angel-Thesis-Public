@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcId: 1
   id: 4
-  buttonText: Mal, soy una basura
+  buttonText: Bad, I'm a piece o s**t
   dialogue:
     sentences:
-    - Entiendo
-    - Sigue intentandolo...
-    - "Ya ver\xE1s que lograr\xE1s caerle bien a todos"
+    - I see
+    - Keep trying
+    - You'll see that everyone will like you
     phase: 0
   nextDialogueOptionIds: 05000000
   condition: {fileID: 0}

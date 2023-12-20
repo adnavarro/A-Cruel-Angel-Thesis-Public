@@ -17,9 +17,9 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Recuerda
-    - Si me necesitas
-    - "B\xFAscame"
+    - Remember
+    - If you need me
+    - Search for me
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

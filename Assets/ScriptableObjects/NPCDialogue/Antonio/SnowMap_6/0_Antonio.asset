@@ -17,12 +17,12 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xA1Hey!"
-    - Veo que has conocido a mucha gente dentro del bar
-    - "\xBFHiciste muchos amigos?"
+    - Hey!
+    - I see you've met a lot of people inside the bar
+    - Did you make friends?
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 0100000002000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

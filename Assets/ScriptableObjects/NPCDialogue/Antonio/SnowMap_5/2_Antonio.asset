@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcId: 1
   id: 2
-  buttonText: Excelente
+  buttonText: Excellent
   dialogue:
     sentences:
-    - Me alegro mucho por ti
-    - Por cierto
-    - "\xBFC\xF3mo te han tratatado las personas que te has encontrado?"
+    - I'm really happy for you
+    - Also
+    - How have the people you have met treated you?
     phase: 0
   nextDialogueOptionIds: 0300000004000000
   condition: {fileID: 0}

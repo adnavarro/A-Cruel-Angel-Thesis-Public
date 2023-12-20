@@ -17,10 +17,10 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "A partir de ahora tu aventura ser\xE1 m\xE1s dif\xEDcil"
-    - "M\xE1s oscura"
-    - Y con muchos peligros
-    - "Prep\xE1rate para lo que vendr\xE1"
+    - From now on your adventure will be more difficult
+    - Darker
+    - With a lot of danger
+    - Get ready
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}
