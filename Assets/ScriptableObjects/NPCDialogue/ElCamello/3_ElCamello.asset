@@ -18,12 +18,14 @@ MonoBehaviour:
   dialogue:
     sentences:
     - Ahhhh
-    - "Te gust\xF3 el producto, ehhh"
-    - "\xBFQuieres otra probada?"
+    - You liked my product, he?
+    - You want to try again?
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 0500000006000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
   symptomAttached: {fileID: 0}
   endsOnBattle: 0
   isSymptomQuestion: 0

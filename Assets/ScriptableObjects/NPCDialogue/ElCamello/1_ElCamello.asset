@@ -14,18 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcId: 6
   id: 1
-  buttonText: "S\xED"
+  buttonText: Yes
   dialogue:
     sentences:
-    - Jajajajajajajajajajajaja
-    - "As\xED se habla"
-    - Ten
-    - "Esto te llevar\xE1 a ver las nubes"
+    - Hahahahahahahahahahaha
+    - Now we are talking
+    - Here
+    - This will make you fly
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 03000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 11400000, guid: 2d43b11bb22904a41b3c4356bd02971b, type: 2}
+  reward: {fileID: 0}
   symptomAttached: {fileID: 0}
   endsOnBattle: 0
   isSymptomQuestion: 0

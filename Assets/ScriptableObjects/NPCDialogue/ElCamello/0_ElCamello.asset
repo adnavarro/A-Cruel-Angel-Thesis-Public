@@ -17,13 +17,15 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "Hola peque\xF1o amigo"
-    - Jeje...
-    - "\xBFTe interesa alguno de mis productos?"
+    - Hello little friend
+    - Hehe...
+    - Do you want any of my products?
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 0100000002000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
   symptomAttached: {fileID: 0}
   endsOnBattle: 0
   isSymptomQuestion: 0

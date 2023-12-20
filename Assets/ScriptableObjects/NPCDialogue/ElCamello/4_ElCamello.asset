@@ -18,12 +18,14 @@ MonoBehaviour:
   dialogue:
     sentences:
     - Ahhhh
-    - Volviste
-    - "\xBFAhora si quieres probar mi producto?"
+    - You're back
+    - You want to try my product now?
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 0500000006000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
+  item: {fileID: 0}
+  reward: {fileID: 0}
   symptomAttached: {fileID: 0}
   endsOnBattle: 0
   isSymptomQuestion: 0
