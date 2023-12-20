@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_SentimientosDeInfelicidad
   m_EditorClassIdentifier: 
-  name: En un matrimonio hay tiempo para conocerse
+  name: In a marriage there is time to get to know each other
   nextActOptions:
   - {fileID: 11400000, guid: 74126bb8e0ff8f04c8642dfe5c0b79ca, type: 2}
   - {fileID: 11400000, guid: 07205e9bca42bf242b74586cbe8e9cba, type: 2}
   response:
     sentences:
-    - Por eso me caso con ella
-    - Para conocerla mejor
+    - That's why I'm marrying her
+    - I want to know her better
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

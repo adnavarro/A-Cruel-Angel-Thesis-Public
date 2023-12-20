@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.2_SentimientosDeInfelicidad
   m_EditorClassIdentifier: 
-  name: "He encontrado cosas m\xE1s peque\xF1as"
+  name: I have found smaller things
   nextActOptions: []
   response:
     sentences:
-    - "Est\xE1 bien"
-    - "Seguir\xE9 buscando con mucho entusiasmo"
+    - Okey
+    - I will continue searching with great enthusiasm
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

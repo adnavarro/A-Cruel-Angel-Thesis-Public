@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1_SentimientosDeInfelicidad
   m_EditorClassIdentifier: 
-  name: Pareciera que lo importante es el anillo
+  name: It seems that the important thing is the ring
   nextActOptions:
   - {fileID: 11400000, guid: acbfe934010f8054a96a377e72e80f5f, type: 2}
   - {fileID: 11400000, guid: 078d89a66af43db4aa390ebadf3041b2, type: 2}
   response:
     sentences:
-    - Exactamente muchacho
-    - Por eso lo estoy buscando
+    - Exactly my boy
+    - That's why I'm looking for it
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 1
   associatedSymptom: 0

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Poison
   m_EditorClassIdentifier: 
-  name: Fumigar
+  name: Poison
   baseAttack: 10
   responses:
   - sentences:
-    - Uy
-    - "\xBFPiensas quitarme el conocimiento?"
+    - Uh
+    - Are you planning to knock me out?
     phase: 0

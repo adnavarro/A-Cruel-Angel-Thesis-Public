@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.2_SentimientosDeInfelicidad
   m_EditorClassIdentifier: 
-  name: "Bueno, podr\xE1s cambiar de chica"
+  name: Well, you can change the girl
   nextActOptions: []
   response:
     sentences:
-    - "Bueno, la otra vez me escribi\xF3 una amiga..."
+    - No that you mention it...
+    - ...the other day a female friend wrote to me
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 0

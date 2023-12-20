@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Hit
   m_EditorClassIdentifier: 
-  name: Golpear
+  name: Hit
   baseAttack: 10
   responses:
   - sentences:
-    - "S\xED"
-    - Pegame
-    - "S\xED"
+    - Yes
+    - Hit me!
+    - Yessss!
     phase: 0
-    condition: {fileID: 0}

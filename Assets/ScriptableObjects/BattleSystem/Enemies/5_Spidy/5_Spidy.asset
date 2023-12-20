@@ -15,8 +15,6 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: d2f9ac62b0045374ea3b576fd4012a9d, type: 3}
   font: {fileID: 11400000, guid: 1ba36732063ac02419db3f313a9bf05a, type: 2}
   id: 5
-  isAQuestEnemy: 0
-  isFirstTimeAppearing: 1
   enemySymptoms:
   - {fileID: 11400000, guid: fda676232ef671f4e888bbf193524d1a, type: 2}
   - {fileID: 11400000, guid: a05682a0332dab246b88b8cfba14b09f, type: 2}
@@ -36,52 +34,43 @@ MonoBehaviour:
   baseAttack: 15
   dialoguePhase:
   - sentences:
-    - "Oye soy una ara\xF1a"
-    - "Pero no ara\xF1o"
+    - I'm a sexy spider
+    - Hihihihi
     phase: 1
-    condition: {fileID: 0}
   - sentences:
-    - Tranquilo
-    - No soy venenosa
+    - Easy
+    - I'm not poisonous
     phase: 2
-    condition: {fileID: 0}
   - sentences:
     - Hey
     - "\xBFQuieres salir conmigo?"
     phase: 3
-    condition: {fileID: 0}
   - sentences:
-    - "Seguir\xE9 buscando presas"
+    - I'll keep looking for girls to hunt
     phase: 3
-    condition: {fileID: 0}
   dialoguePresentation:
   - sentences:
     - AHHHHHHHHHH
-    - "Se me perdi\xF3 mi anillo de compromiso"
-    - "Ahora mi prometida me matar\xE1"
+    - I lost my engagement ring
+    - "Now my fianc\xE9e will kill me"
     phase: 0
-    condition: {fileID: 0}
-  dialogueAttack:
+  dialogueCommentary:
   - sentences:
-    - Algo no te cuadra
-    - "Esta ara\xF1a es rara"
+    - Something is weird
+    - This spider is strange
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - "\xBFDe verdad logra ver algo boca abajo?"
-    - Decides no preguntar
+    - Can he really see something upside down?
+    - You decide not to ask
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - "Dice que perdi\xF3 el anillo de compromiso"
-    - "Pero no observas preocupaci\xF3n"
+    - He says she lost his engagement ring.
+    - But you don't see any concern
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - "\xBFEs eso una sonrisa?"
-    - "\xBFO es tu imaginaci\xF3n?"
+    - Is that a smile?
+    - Or is it your imagination?
     phase: 0
-    condition: {fileID: 0}
   maxDepressionPhase: 3
   actOptions:
   - {fileID: 11400000, guid: 1205bccd68a373748a00e94e89cc767e, type: 2}

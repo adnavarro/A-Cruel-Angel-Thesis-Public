@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1_SentimientosDeInfelicidad
   m_EditorClassIdentifier: 
-  name: "Ella lo entender\xE1"
+  name: She will understand
   nextActOptions:
   - {fileID: 11400000, guid: d3ce64096bf0c644691955791405fb63, type: 2}
   - {fileID: 11400000, guid: ae910e9607d69884f9fa984b6d29dfe0, type: 2}
   response:
     sentences:
-    - "Es que t\xFA no la conoces"
+    - You don't know her
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

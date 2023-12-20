@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_FuturoFatalista
   m_EditorClassIdentifier: 
-  name: "Siempre estar\xE1s esclavizado a lo material"
+  name: You will always be enslaved to the material
   nextActOptions: []
   response:
     sentences:
-    - "Como se nota que t\xFA no lo pagaste"
+    - Easy to say for you
+    - Because you didn't pay for it
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 6

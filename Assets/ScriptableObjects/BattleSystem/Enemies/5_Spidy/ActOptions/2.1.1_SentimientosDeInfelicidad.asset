@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.1_SentimientosDeInfelicidad
   m_EditorClassIdentifier: 
-  name: Triste que tu matrimonio termine sin empezar
+  name: It's sad that your marriage will end without starting
   nextActOptions: []
   response:
     sentences:
-    - Si bueno...
-    - "A su hermana nunca le gust\xF3 el anillo"
+    - Yeah well...
+    - Her sister never liked the ring
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 0

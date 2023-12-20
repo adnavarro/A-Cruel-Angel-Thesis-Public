@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_SentimientosDeInfelicidad
   m_EditorClassIdentifier: 
-  name: "Un anillo siempre es dif\xEDcil de encontrar"
+  name: A ring is always hard to find
   nextActOptions:
   - {fileID: 11400000, guid: 9f9258585f646614ebe12cb06ccb0363, type: 2}
   - {fileID: 11400000, guid: 89f38c1019a3ae2439cc93e007224c20, type: 2}
   response:
     sentences:
-    - Es la primera vez que se me pierde uno
+    - It's the first time I've lost one
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 0

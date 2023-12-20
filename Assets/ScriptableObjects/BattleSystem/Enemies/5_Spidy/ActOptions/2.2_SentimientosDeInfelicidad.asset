@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_SentimientosDeInfelicidad
   m_EditorClassIdentifier: 
-  name: He visto matrimonios sin anillo
+  name: I have seen marriages without a ring
   nextActOptions:
   - {fileID: 11400000, guid: f5d5ee92364e6d64aaa56490988f84cd, type: 2}
   - {fileID: 11400000, guid: 1c492867bfbae8c488fb0e42039f8efc, type: 2}
   response:
     sentences:
-    - "S\xED, pero no conoces a mi novia"
-    - "En la universidad le dec\xEDan puente roto"
+    - Yeah, but you don't know my girlfriend
+    - In college they called it a broken bridge
     phase: 0
   depressionPoints: 0
   associatedSymptom: 17

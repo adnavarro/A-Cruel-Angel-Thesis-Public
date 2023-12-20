@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.1_SentimientosDeInfelicidad
   m_EditorClassIdentifier: 
-  name: No sabes lo que te espera
+  name: You don't know what awaits you
   nextActOptions: []
   response:
     sentences:
-    - Tranquilo
-    - Ella es el segundo frente
-    - Tengo experiencia en esto
+    - It's ok
+    - She is not my first rodeo
+    - I have experience
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 0
