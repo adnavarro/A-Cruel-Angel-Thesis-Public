@@ -17,7 +17,7 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Fue un gusto pelear contigo
+    - It wasa a pleasure to fight with you
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

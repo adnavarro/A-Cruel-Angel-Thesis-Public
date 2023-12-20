@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcId: 5
   id: 2
-  buttonText: No, gracias
+  buttonText: No, thanks
   dialogue:
     sentences:
     - I understand, you can't drink

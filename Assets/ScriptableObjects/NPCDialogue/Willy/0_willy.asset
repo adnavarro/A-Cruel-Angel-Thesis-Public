@@ -18,10 +18,10 @@ MonoBehaviour:
   dialogue:
     sentences:
     - Hola
-    - "\xBFQuieres pelear conmigo?"
+    - Wanna fight with me?
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 0100000002000000
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

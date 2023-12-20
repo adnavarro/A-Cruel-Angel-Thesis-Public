@@ -17,8 +17,8 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "Olv\xEDdalo"
-    - "No pelear\xE9 contigo"
+    - Forget about it
+    - I will not fight with you
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

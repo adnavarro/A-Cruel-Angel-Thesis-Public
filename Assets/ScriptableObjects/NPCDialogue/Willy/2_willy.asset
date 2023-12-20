@@ -17,8 +17,8 @@ MonoBehaviour:
   buttonText: No
   dialogue:
     sentences:
-    - "\xA1JA JA JA!"
-    - "Eres un est\xFApido"
+    - "\xA1HA HA HA!"
+    - You are a fool
     phase: 0
   nextDialogueOptionIds: 03000000
   condition: {fileID: 0}

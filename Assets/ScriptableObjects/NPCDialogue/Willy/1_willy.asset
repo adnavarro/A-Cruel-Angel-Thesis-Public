@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcId: 1
   id: 1
-  buttonText: "S\xED"
+  buttonText: Yes
   dialogue:
     sentences:
-    - "\xA1Entonces yo no quiero!"
+    - Then I don't want to!!!
     phase: 0
   nextDialogueOptionIds: 04000000
   condition: {fileID: 0}
