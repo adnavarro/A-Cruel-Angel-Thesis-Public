@@ -17,9 +17,9 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "Extra\xF1o miserable"
-    - "\xBFEst\xE1s tratando de enga\xF1arme para abrir esta puerta?"
-    - "Cielos, Las profundidades de la depravaci\xF3n..."
+    - Wretched outsider!
+    - Tryin' to fool me to open this door?
+    - Heavens, the depths of depravity...
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

@@ -17,9 +17,9 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "Bueno ya te coment\xE9 de manera po\xE9tica lo que debes hacer"
-    - "Solo debes presionar [Espacio] arriba del s\xEDmbolo de pesca"
-    - "\xA1Recuerda conseguir una ca\xF1a de pesca primero!"
+    - Well... it's quite easy dude
+    - Just press [Space] above the symbol
+    - Remember to search for a fishing rod first
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

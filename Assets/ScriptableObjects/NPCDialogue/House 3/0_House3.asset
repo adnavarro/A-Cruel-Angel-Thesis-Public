@@ -17,8 +17,8 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "Vete de aqu\xED extra\xF1o"
-    - "\xA1Deja este pueblo de una vez!"
+    - Get out of here stranger
+    - Leave this town at once!
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

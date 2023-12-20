@@ -17,12 +17,13 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "Aqu\xED se encuentra el bar del pueblo"
-    - "Un sitio incre\xEDble para ahogar tus penas"
-    - Un lugar para beber hasta el amanecer
+    - Here is the town's bar
+    - A place to drown your sorrows
+    - Unless they can swim
+    - Hehe
     phase: 0
-    condition: {fileID: 0}
   nextDialogueOptionIds: 
+  condition: {fileID: 0}
   quest: {fileID: 0}
   item: {fileID: 0}
   reward: {fileID: 0}

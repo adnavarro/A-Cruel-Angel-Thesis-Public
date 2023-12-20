@@ -17,9 +17,9 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xBF\xBFWilly??"
-    - "\xBFD\xF3nde estar\xE1 esa baba?"
-    - "Espero que no est\xE9 causando problemas"
+    - Willy??
+    - Where the heck is that Slime?
+    - I hope he is not causing trouble
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}

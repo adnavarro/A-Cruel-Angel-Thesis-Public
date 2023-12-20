@@ -17,10 +17,10 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - Las viejas canciones cuentan
-    - "Que si has de encontrar una ca\xF1a de pesca"
-    - "Deber\xE1s de pulsar [Espacio] arriba del s\xEDmbolo de pesca"
-    - "Para as\xED, peces agarrar"
+    - In the old songs, it is written
+    - That if someone is to find a fish rod
+    - One must press [Space] above the fishing symbol
+    - And something may happen
     phase: 0
   nextDialogueOptionIds: 01000000
   condition: {fileID: 0}

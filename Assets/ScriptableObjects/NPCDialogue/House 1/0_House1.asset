@@ -17,9 +17,9 @@ MonoBehaviour:
   buttonText: 
   dialogue:
     sentences:
-    - "\xBFAh?"
-    - "\xBFUn forastero?"
-    - "Que extra\xF1o"
+    - Ah?
+    - A stranger?
+    - Quite strange
     phase: 0
   nextDialogueOptionIds: 
   condition: {fileID: 0}
