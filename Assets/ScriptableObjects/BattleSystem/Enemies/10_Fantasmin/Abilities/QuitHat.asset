@@ -12,17 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: QuitHat
   m_EditorClassIdentifier: 
-  name: Robar mi sombrero
+  name: Remove his hat
   baseAttack: 15
   responses:
   - sentences:
-    - Mi sombrerooooooo
-    - Regresamelo
+    - My haaaaaaaaat
+    - Give it back to me
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - "Ese sombrero me cost\xF3 mucho"
-    - Damelo
-    - Lo necesito para demostrar mi dinero
+    - That hat is expensive
+    - Give it back to me
+    - I need it to show how much money i have
     phase: 0
-    condition: {fileID: 0}

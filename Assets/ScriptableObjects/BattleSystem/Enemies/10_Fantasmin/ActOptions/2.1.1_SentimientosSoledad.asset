@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.1_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: "Si sigues pensando as\xED no encontrar\xE1s a nadie"
+  name: If you keep thinking like this you won't find anyone
   nextActOptions: []
   response:
     sentences:
-    - "M\xE1s vale solo"
-    - "Que mal acompa\xF1ado"
+    - For 'tis better to be alone
+    - Than in bad Company
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

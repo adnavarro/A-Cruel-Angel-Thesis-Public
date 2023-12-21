@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: Estoy seguro que debes tener un amigo
+  name: I'm sure you must have a friend
   nextActOptions:
   - {fileID: 11400000, guid: faf3918fb0b0e034fae36311cbb5899f, type: 2}
   - {fileID: 11400000, guid: 0cba7052bd99ee841afd940c2cea416b, type: 2}
   response:
     sentences:
-    - Todos son unos abusadores
-    - Lo que quieren es mi dinero
+    - They are all abusers
+    - What they really want is my money
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

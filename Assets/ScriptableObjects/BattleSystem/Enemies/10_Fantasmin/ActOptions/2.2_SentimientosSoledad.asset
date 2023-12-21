@@ -12,17 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: "Si lo intentas encontrar\xE1s a alguien"
+  name: If you try you'll find someone
   nextActOptions:
   - {fileID: 11400000, guid: c5fb58e0dcbae5846aae852ba5f81562, type: 2}
   - {fileID: 11400000, guid: 6de66ea2b4307b1409d353f46f2156c0, type: 2}
   response:
     sentences:
-    - Ya no quiero seguir intentandolo
-    - A veces parece que funciona
-    - Pero como soy millonario
-    - Al final todos me piden dinero
+    - I don't want to keep trying
+    - Sometimes it seems to work
+    - But just because I'm a millionaire
+    - Everyone ask for money in the end
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

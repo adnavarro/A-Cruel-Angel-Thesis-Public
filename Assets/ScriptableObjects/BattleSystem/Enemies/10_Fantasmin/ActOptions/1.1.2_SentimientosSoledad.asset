@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.2_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: "Es verdad, adi\xF3s"
+  name: You're right, bye
   nextActOptions: []
   response:
     sentences:
-    - Hasta luego
-    - "Eres igual que los dem\xE1s"
+    - Goodbye
+    - You're just like the others
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 13

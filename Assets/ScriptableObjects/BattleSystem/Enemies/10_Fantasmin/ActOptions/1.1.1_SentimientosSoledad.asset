@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: "Pero ahora nos conocemos, podr\xEDa volver"
+  name: But now we know each other, I could come back
   nextActOptions: []
   response:
     sentences:
-    - "\xBFEn serio?"
-    - "\xBFMe lo prometes?"
+    - Really?
+    - You promise?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

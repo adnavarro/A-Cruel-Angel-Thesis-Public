@@ -12,18 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: GoThrough
   m_EditorClassIdentifier: 
-  name: Atravesar
+  name: Go through
   baseAttack: 20
   responses:
   - sentences:
     - AHHHHHH
-    - "\xBFQu\xE9 est\xE1s haciendo?"
-    - Que perturbador
+    - What are you doing?
+    - How disturbing
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - No hagas eso
-    - No me gusta
-    - No me atravieses
+    - Don't do that
+    - I don't like it
+    - Don't pass through me
     phase: 0
-    condition: {fileID: 0}

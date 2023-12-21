@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.1_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: "\xBFEres millonario?"
+  name: Are you a millionaire?
   nextActOptions: []
   response:
     sentences:
-    - "S\xED"
-    - "Hered\xE9 millones"
-    - Pero no me hacen sentir mejor
-    - "Hasta a ti te atrajo la tentaci\xF3n de mi dinero"
+    - Yes
+    - I inherited millions
+    - But that doesn't make me feel better
+    - Even you were attracted by the temptation of my money
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

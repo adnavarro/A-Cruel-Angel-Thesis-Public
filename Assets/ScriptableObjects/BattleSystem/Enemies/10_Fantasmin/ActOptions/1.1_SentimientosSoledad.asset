@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: "Es como que nadie es compa\xF1\xEDa"
+  name: It's like no one is enough
   nextActOptions:
   - {fileID: 11400000, guid: 6325e9269b6066949b62d2a203828ab9, type: 2}
   - {fileID: 11400000, guid: 05d725703e3e4b44dbf04e30a9471d54, type: 2}
   response:
     sentences:
-    - Exactamente
-    - "Hasta t\xFA que est\xE1s hablando conmigo te ir\xE1s"
+    - Exactly
+    - Even you, who are talking, to me will leave
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 13

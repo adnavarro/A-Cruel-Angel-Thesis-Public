@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: A mi me parece que hay muchos para elegir
+  name: It seems to me that there are many to choose from
   nextActOptions:
   - {fileID: 11400000, guid: f80463ace0c61d04d9d6a922c44b1b7f, type: 2}
   - {fileID: 11400000, guid: 86c4254d4f2c0ae40abb495dd2b74c87, type: 2}
   response:
     sentences:
-    - "No s\xE9 si yo estoy con ellos"
-    - "O ellos est\xE1n conmigo"
+    - I don't know if I'm with them
+    - Or if they are with me
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

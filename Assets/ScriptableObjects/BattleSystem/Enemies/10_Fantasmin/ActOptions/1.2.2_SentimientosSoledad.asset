@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.2_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: "Ciertamente es dif\xEDcil confiar en alguien"
+  name: It is certainly difficult to trust someone
   nextActOptions: []
   response:
     sentences:
-    - Es verdad
-    - Ni siquiera confio en ti
+    - It is true
+    - I don't even trust you
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 13

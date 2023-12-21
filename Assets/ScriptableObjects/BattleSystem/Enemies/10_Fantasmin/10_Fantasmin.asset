@@ -33,18 +33,18 @@ MonoBehaviour:
   baseAttack: 15
   dialoguePhase:
   - sentences:
-    - "Adem\xE1s de estar solo"
-    - Me lastimas
-    - Que fea es la vida
+    - Besides being alone
+    - You're hurting me
+    - Life is so ugly
     phase: 1
   - sentences:
-    - No hay nada en este mundo que sirva
-    - Hice una millonada para conseguir amigos
-    - "Pero no funcion\xF3"
+    - There is nothing good in this world
+    - I made myself a millionare to have friends
+    - But it didn't work
     phase: 2
   - sentences:
-    - Bien
-    - "Abrazar\xE9 la soledad"
+    - Good
+    - I'll embrace loneliness
     phase: 3
   dialoguePresentation:
   - sentences:

@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: "Te puedes sentir solo con gente cerca \xBFverdad?"
+  name: You can feel lonely with people around, right?
   nextActOptions:
   - {fileID: 11400000, guid: 7507207dcfa39df49aaeddebb1655a0f, type: 2}
   - {fileID: 11400000, guid: f374ed71ec195b04c81a8a9f55a6ca6f, type: 2}
   response:
     sentences:
-    - Me entiendes perfectamente
+    - You understand me perfectly
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 13

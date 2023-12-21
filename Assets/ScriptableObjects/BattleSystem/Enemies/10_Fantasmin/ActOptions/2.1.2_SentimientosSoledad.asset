@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.2_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: Es cierto, no existen los amigos
+  name: It's true, friends don't exist
   nextActOptions: []
   response:
     sentences:
-    - "Pues adi\xF3s"
-    - "No s\xE9 ni por qu\xE9 estoy hablando aqu\xED contigo"
+    - Then bye
+    - I don't even know why I'm talking to you
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 13

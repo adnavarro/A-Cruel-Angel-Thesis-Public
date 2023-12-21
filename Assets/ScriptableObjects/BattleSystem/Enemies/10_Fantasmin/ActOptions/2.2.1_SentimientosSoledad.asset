@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.1_SentimientosSoledad
   m_EditorClassIdentifier: 
-  name: Que te pidan dinero no significa que no te quieran
+  name: Just because they ask you for money doesn't mean they don't love you.
   nextActOptions: []
   response:
     sentences:
-    - "T\xFA no sabes nada"
-    - Total
-    - Eres pobre
+    - You know nothing
+    - In fact
+    - You're poor
     phase: 0
   depressionPoints: 0
   associatedSymptom: 17
