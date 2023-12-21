@@ -12,11 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Bully
   m_EditorClassIdentifier: 
-  name: Hacer Bully
+  name: Bully
   baseAttack: 20
   responses:
   - sentences:
-    - "Lo s\xE9"
-    - Mi vida es un desastre
+    - I know
+    - My life is disaster
     phase: 0
-    condition: {fileID: 0}

@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: Pareciera que todas tus experiencias son malas
+  name: It seems like all your experiences are bad
   nextActOptions:
   - {fileID: 11400000, guid: 0a7635f3fefdb24438472a0f91a8c301, type: 2}
   - {fileID: 11400000, guid: 13fa1079fa535024094f4588f4e0dcfc, type: 2}
   response:
     sentences:
-    - Efectivamente
-    - Como ya te dije
-    - Esta vida no tiene nada que ofrecerme
+    - Indeed
+    - As I told you
+    - This life has nothing more to offer
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.2_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: "Existen puntos de vista m\xE1s amplios"
+  name: There are broader points of view
   nextActOptions: []
   response:
     sentences:
-    - No los conozco
-    - "Pero pensar\xE9"
+    - I don't know those
+    - But I'll think about it
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

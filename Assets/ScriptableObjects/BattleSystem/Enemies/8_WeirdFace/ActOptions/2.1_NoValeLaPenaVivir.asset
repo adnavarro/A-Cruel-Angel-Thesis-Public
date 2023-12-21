@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: Lo mejor es respetar lo que has decidido
+  name: I will respect your decisions
   nextActOptions:
   - {fileID: 11400000, guid: 7e46849af8fa3b44fa71715f93c8712b, type: 2}
   - {fileID: 11400000, guid: e03c5ecd216b1494283f1f03e274df27, type: 2}
   response:
     sentences:
-    - "\xBFDe verdad est\xE1s de acuerdo conmigo?"
+    - Do you really agree with me?
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 7

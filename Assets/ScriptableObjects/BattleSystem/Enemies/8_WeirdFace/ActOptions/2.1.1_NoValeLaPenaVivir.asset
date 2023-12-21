@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.1_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: "S\xED, yo he sentido eso..."
+  name: Yes, I have felt that
   nextActOptions: []
   response:
     sentences:
-    - "Ya veo que no he sido el \xFAnico"
-    - "Me siento acompa\xF1ado en mi misera"
+    - I see... I haven't been the only one
+    - I feel accompanied in my misery
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 7

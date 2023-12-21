@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.1_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: Pero puedes llegar a serlo
+  name: But you can be one of them
   nextActOptions: []
   response:
     sentences:
-    - "Ser\xEDa dif\xEDcil"
-    - No creo que pueda lograrlo
+    - It's going to be hard
+    - I don't think I can do it
     phase: 0
   depressionPoints: 0
   associatedSymptom: 17

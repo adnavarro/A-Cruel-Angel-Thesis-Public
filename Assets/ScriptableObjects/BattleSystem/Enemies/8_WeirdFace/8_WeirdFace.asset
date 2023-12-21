@@ -33,38 +33,31 @@ MonoBehaviour:
   baseAttack: 15
   dialoguePhase:
   - sentences:
-    - "As\xED mismo... No vale la pena vivir"
+    - Yes... It's not worth living
     phase: 1
-    condition: {fileID: 0}
   - sentences:
-    - Gracias
-    - "Me est\xE1s ayudando muy bien"
+    - Thank you
+    - You're really helping me
     phase: 2
-    condition: {fileID: 0}
   - sentences:
-    - "Adi\xF3s mundo cruel"
+    - Goodbye cruel world
     phase: 3
-    condition: {fileID: 0}
   dialoguePresentation:
   - sentences:
-    - No vale la pena vivir
+    - It's not worth living
     phase: 0
-    condition: {fileID: 0}
   dialogueCommentary:
   - sentences:
-    - Algo huele mal
+    - Something smells bad
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - Un momento
-    - TIENE UN CUERPO DIMINUTO
+    - Wait a moment
+    - HE HAS A TINY BODY
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - Te preguntas
-    - "Algo no est\xE1 bien con esa cabeza"
+    - You wonder
+    - Something's not right with that head
     phase: 0
-    condition: {fileID: 0}
   maxDepressionPhase: 3
   actOptions:
   - {fileID: 11400000, guid: dd4c7da3069267a45bc79f3dd9d59e69, type: 2}

@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: "Sigue intentandolo, algo encontrar\xE1s"
+  name: Keep trying, you will find something
   nextActOptions: []
   response:
     sentences:
-    - Bueno
-    - "Lo intentar\xE9"
-    - Pero no te prometo nada
+    - Well
+    - I will try
+    - But I can not promise anything
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

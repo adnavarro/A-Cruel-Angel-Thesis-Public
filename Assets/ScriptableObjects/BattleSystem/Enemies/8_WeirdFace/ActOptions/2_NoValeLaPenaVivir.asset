@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: "Tendr\xE1s tus razones"
+  name: You will have your reasons
   nextActOptions:
   - {fileID: 11400000, guid: 29a24635a78f98340b187a96f935ed4e, type: 2}
   - {fileID: 11400000, guid: bb4a1248e440a254db7fbc2cbc83a6ed, type: 2}
   response:
     sentences:
-    - Las tengo
-    - Definitivamente
+    - I do
+    - Definitely
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 7

@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.1_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: Entonces definitivamente no vale la pena vivir
+  name: So definitely, life is not worth living
   nextActOptions: []
   response:
     sentences:
-    - "As\xED es"
-    - Ya comprendiste mi problema
+    - That's how it is
+    - You already understood my situation
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 7

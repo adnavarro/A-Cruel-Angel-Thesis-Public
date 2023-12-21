@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: Es verdad, es solo para algunos
+  name: It's true, it's only for some people
   nextActOptions:
   - {fileID: 11400000, guid: 878853f6b6e53ff4f888ed734d71dcf1, type: 2}
   - {fileID: 11400000, guid: c6e269fee23980d40903c876f7650752, type: 2}
   response:
     sentences:
-    - Yo no soy uno de ellos
+    - And I'm not one of them
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 7

@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_NoValeLaPenaVivir
   m_EditorClassIdentifier: 
-  name: "Habr\xE1 que reflexionar sobre ellas"
+  name: We will have to reflect on them
   nextActOptions:
   - {fileID: 11400000, guid: fc5bcc7bb23dd874bba9242502484534, type: 2}
   - {fileID: 11400000, guid: 321165619c231eb42a6be39771512421, type: 2}
   response:
     sentences:
-    - Ya lo he hecho
-    - El resultado es el mismo
+    - I've done it
+    - The result is the same
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

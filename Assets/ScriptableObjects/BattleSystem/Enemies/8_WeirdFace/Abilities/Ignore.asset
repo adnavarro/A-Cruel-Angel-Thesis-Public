@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Ignore
   m_EditorClassIdentifier: 
-  name: Ignorar
+  name: Ignore
   baseAttack: 10
   responses:
   - sentences:
-    - "Me est\xE1s ignorando como todo el mundo"
-    - Pensaba que ya no me preocupaba
-    - Pero lograste hacerme sentir peor
+    - You're ignoring me like everyone else
+    - I thought that I didn't care anymore
+    - But you managed to make me feel worse
     phase: 0
-    condition: {fileID: 0}
