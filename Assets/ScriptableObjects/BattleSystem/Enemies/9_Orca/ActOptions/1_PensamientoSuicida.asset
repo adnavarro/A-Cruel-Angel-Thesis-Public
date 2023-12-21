@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: No tengo dificultades como para pensar en eso
+  name: I don't have a hard time thinking about that
   nextActOptions:
   - {fileID: 11400000, guid: 66be430e38521c2489a0be9417de3e5d, type: 2}
   - {fileID: 11400000, guid: d379b9d5485717b4bbb35c0a936ae19e, type: 2}
   response:
     sentences:
-    - Yo he pensado envenenarme
-    - Pero le tengo miedo al sufrimiento
-    - "\xBFT\xFA qu\xE9 opinas?"
+    - I've thought about poisoning myself
+    - But I'm afraid of suffering
+    - What do you think?
     phase: 0
   depressionPoints: 0
   associatedSymptom: 17

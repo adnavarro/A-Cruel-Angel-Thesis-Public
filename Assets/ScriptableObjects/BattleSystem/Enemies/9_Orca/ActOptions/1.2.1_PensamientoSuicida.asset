@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2.1_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: "Tienes raz\xF3n, no ser\xE1s culpable si lo haces t\xFA"
+  name: You're right, you won't be guilty if you do it
   nextActOptions: []
   response:
     sentences:
-    - Ya veo que me entiendes
+    - I see that you understand
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 10

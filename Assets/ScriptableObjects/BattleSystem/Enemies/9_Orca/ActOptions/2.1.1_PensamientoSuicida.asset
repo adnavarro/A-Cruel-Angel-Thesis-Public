@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.1_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: "A veces as\xED parece"
+  name: Sometimes it seems that way
   nextActOptions: []
   response:
     sentences:
-    - Para vivir en la oscuridad
-    - Mejor la abrazo
+    - To live in the dark
+    - Is better to embrace it
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 10

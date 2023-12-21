@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.1_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: Sobre eso deberemos reflexionar en el futuro
+  name: We will have to reflect on that in the future
   nextActOptions: []
   response:
     sentences:
-    - "Parece que no est\xE1s decidido"
-    - "Pero yo s\xED"
+    - It seems that you are undecided
+    - But I am
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

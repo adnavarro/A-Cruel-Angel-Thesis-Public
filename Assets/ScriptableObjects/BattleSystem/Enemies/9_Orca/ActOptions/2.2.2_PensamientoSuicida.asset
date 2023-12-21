@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2.2_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: "Yo tambi\xE9n..."
+  name: Me too...
   nextActOptions: []
   response:
     sentences:
-    - En un hospital pudiesen ayudarnos...
+    - They could help us in an hospital...
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 10

@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Hunt
   m_EditorClassIdentifier: 
-  name: Cazar
+  name: Hunt
   baseAttack: 20
   responses:
   - sentences:
-    - Ya veo
-    - Eres un cazador
+    - I see
+    - You're a hunter
     phase: 0
   - sentences:
-    - "Kaninchen te pidi\xF3 pesacados"
-    - No una orca
-    - Aprende a diferenciar
+    - Kaninchen asked you for fishes
+    - Not an orca
+    - Learn to differentiate
     phase: 0

@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.1.1_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: "Es dif\xEDcil decidir \xBFY una bala?"
+  name: Is hard to decide, What about a bullet?
   nextActOptions: []
   response:
     sentences:
-    - No tengo porte de armas
-    - Y el dolor del impacto me asusta
-    - "Pero lo pensar\xE9"
+    - I do not carry weapons
+    - And the pain of the impact scares me
+    - But I'll think about it
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 3
   associatedSymptom: 10

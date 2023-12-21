@@ -12,17 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Insult
   m_EditorClassIdentifier: 
-  name: Insultar
+  name: Insult
   baseAttack: 25
   responses:
   - sentences:
-    - Ya para
-    - Tengo suficiente con mi crisis de identidad
+    - Stop
+    - I have enough with my identity crisis
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - Usualmente la gente es buena conmigo
-    - "Pero creo que eso empez\xF3 a pasar despues de la pel\xEDcula"
-    - ... La orca asesina
+    - People are usually nice to me
+    - But I think that started to change after that movie
+    - ...The Killer Whale
     phase: 0
-    condition: {fileID: 0}

@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 1.2_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: Oh no, eso no resuelve nada
+  name: Oh no, that doesn't solve anything
   nextActOptions:
   - {fileID: 11400000, guid: 7090ec6058c3c8e4790ef1d31f418b43, type: 2}
   - {fileID: 11400000, guid: fb5170c55b5a31e4eaf827ef176a15a8, type: 2}
   response:
     sentences:
-    - "S\xED resuelve"
-    - "Nadie ser\xE1 culpable"
-    - Solo yo
+    - Yes it does
+    - No one is going to be guilty
+    - Just me
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

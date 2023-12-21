@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: Nunca se me ha pasado por la mente
+  name: It has never crossed my mind
   nextActOptions:
   - {fileID: 11400000, guid: 3e88cf839dd76b34eb76016b78be1e85, type: 2}
   - {fileID: 11400000, guid: 23f5870c1eb9b294482d29200f578aef, type: 2}
   response:
     sentences:
-    - "Para mi es la \xFAnica salida"
-    - Esta vida no tiene nada que ofrecerme
+    - For my it's the only solution
+    - This life has nothing good to offer me
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

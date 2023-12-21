@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.1.2_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: Yo puedo ser tu amigo, salgamos de esto
+  name: I can be your friend, let's get out of this
   nextActOptions: []
   response:
     sentences:
-    - Bueno
-    - Tal vez pueda intentarlo
+    - Well
+    - I could try
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 0
   associatedSymptom: 17

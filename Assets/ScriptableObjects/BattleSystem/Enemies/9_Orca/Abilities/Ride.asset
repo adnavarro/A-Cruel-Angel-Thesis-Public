@@ -12,19 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f6ad706e8d5354abf0ba4e30f0cf64, type: 3}
   m_Name: Ride
   m_EditorClassIdentifier: 
-  name: Montar
+  name: Ride
   baseAttack: 25
   responses:
   - sentences:
-    - Ay...
+    - Ah...
     - Ahhhhhhhh
-    - Ya baja
-    - "Est\xE1s demasiado pesado"
+    - Get off me
+    - You're too heavy
     phase: 0
-    condition: {fileID: 0}
   - sentences:
-    - Ahhh no
-    - Yo no quiero humanos encima
-    - Usualmente huelen mal
+    - Oh no
+    - I don't want humans on top of me
+    - They usually smell bad
     phase: 0
-    condition: {fileID: 0}

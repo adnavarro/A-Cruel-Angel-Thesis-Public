@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2.2_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: "Tal vez s\xED lo he pensado"
+  name: Maybe I have thought about it
   nextActOptions:
   - {fileID: 11400000, guid: fbe51648cff82ca41ae0c348b43e54e0, type: 2}
   - {fileID: 11400000, guid: 7e11fb1d5850b1444b6e878cbb936721, type: 2}
   response:
     sentences:
-    - "\xBFY c\xF3mo lo har\xEDas?"
-    - "Yo quisiera que fuera r\xE1pido y sin dolor"
+    - And how would you do it?
+    - I would like it to be quick and painless
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 2
   associatedSymptom: 10

@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7699e414881320a4f8b3e0a16359a4c2, type: 3}
   m_Name: 2_PensamientoSuicida
   m_EditorClassIdentifier: 
-  name: "S\xED..."
+  name: Yes...
   nextActOptions:
   - {fileID: 11400000, guid: 672e20b607941ad4ca0e60531a760dbd, type: 2}
   - {fileID: 11400000, guid: 696e5ba2922508f429bb1976a3fa0c21, type: 2}
   response:
     sentences:
-    - "\xBFSer\xEDas capaz de hacerlo t\xFA mismo?"
-    - "Porque yo s\xED lo he pensado"
+    - Would you be able to do it by yourself?
+    - Because I have thought about it
     phase: 0
-    condition: {fileID: 0}
   depressionPoints: 1
   associatedSymptom: 10

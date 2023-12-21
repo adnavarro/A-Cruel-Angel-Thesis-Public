@@ -33,36 +33,36 @@ MonoBehaviour:
   baseAttack: 20
   dialoguePhase:
   - sentences:
-    - Muchas gracias
-    - Estas consiguiendo lo que quiero
+    - Thank you
+    - You're helping me achieving my goal
     phase: 1
   - sentences:
-    - La verdad es que por primera vez
-    - "Me siento m\xE1s tranquilo"
+    - The truth is that for the first time
+    - I feel peace
     phase: 2
   - sentences:
-    - "Ahora ser\xE9 feliz"
-    - "M ir\xE9 de este mundo cruel"
+    - Now I'm going to be happy
+    - I will leave this cruel world
     phase: 3
   dialoguePresentation:
   - sentences:
-    - Hola, buenas tardes
-    - Una pregunta
-    - "\xBFAlguna vez has pensado morir?"
+    - Hello, good evening
+    - One question
+    - Have you ever thought about dying?
     phase: 0
   dialogueCommentary:
   - sentences:
-    - Eso...
-    - "\xBFEso es veneno?"
+    - Is that...
+    - Is that poison?
     phase: 0
   - sentences:
-    - "\xBFSabias qu\xE9?"
-    - Las orcas son en realidad delfines
-    - "Otro de los enga\xF1os de la humanidad"
+    - Did you know?
+    - Orcas are really dophins
+    - Another deception of capitalism
     phase: 0
   - sentences:
-    - Te preguntas
-    - "\xBFC\xF3mo un animal tan feliz puede estar pensando cosas tan horribles?"
+    - You wonder
+    - How such a happy animal can be thinking thouse horrible things?
     phase: 0
   maxDepressionPhase: 3
   actOptions:
