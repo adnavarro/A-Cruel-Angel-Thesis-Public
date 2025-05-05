@@ -20,7 +20,7 @@ After the patient completes the game, their corresponding doctor can visualize t
 </div>
 
 ## Note
-In order to protect user's data and privacy, the version of the game presented in this repository does not have the data recollection feature. If you want the complete version of the game you can send me an email at: alfonsonavarromedina@gmail.com
+In order to protect user's data and privacy, the version of the game presented in this repository does not have the data recollection feature. If you want the complete version of the game you can send me an email at: alfonsodnavarro.work@gmail.com
 
 <div align="center">
   <img src=https://github.com/adnavarro/A-Cruel-Angel-Thesis-Public/blob/main/Images/KissFairy.png width="200" height="200"/>
